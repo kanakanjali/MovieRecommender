@@ -18,8 +18,6 @@ env/
 # Data files (download locally using download_data.py)
 data/ml-100k/
 data/ml-100k.zip
-data/movies.csv
-data/ratings.csv
 
 # Trained model files (generate locally using train_models.py)
 models/*.pkl

@@ -1,0 +1,1683 @@
+movieId,title,release_date,genres
+1,Toy Story (1995),01-Jan-1997,Animation|Children|Comedy
+2,GoldenEye (1995),01-Jan-1991,Thriller|War
+3,Four Rooms (1995),01-Jan-1995,Children|Mystery|Western
+4,Get Shorty (1995),01-Jan-1995,Crime|Sci-Fi
+5,Copycat (1995),01-Jan-1994,Animation|Comedy|Horror
+6,Shanghai Triad (Yao a yao yao dao waipo qiao) (1995),01-Jan-1991,Film-Noir
+7,Twelve Monkeys (1995),01-Jan-1991,Musical
+8,Babe (1995),01-Jan-1992,Comedy|Mystery|Romance
+9,Dead Man (1995),01-Jan-1996,Crime|Thriller
+10,Richard III (1995),01-Jan-1998,Crime|Thriller|Western
+11,Seven (Se7en) (1995),01-Jan-1994,Crime
+12,"Usual Suspects, The (1995)",01-Jan-1995,Crime|Drama|Thriller
+13,Mighty Aphrodite (1995),01-Jan-1997,Action|Adventure|Musical
+14,"Postino, Il (The Postman) (1994)",01-Jan-1997,Documentary
+15,Mr. Holland's Opus (1995),01-Jan-1996,Romance|Thriller|War
+16,French Twist (Gazon maudit) (1995),01-Jan-1997,Sci-Fi|Thriller
+17,From Dusk Till Dawn (1996),01-Jan-1992,Action
+18,"White Balloon, The (Badkonake sefid) (1995)",01-Jan-1993,Adventure|Fantasy
+19,Antonia's Line (Antonia) (1995),01-Jan-1993,Crime|Film-Noir|Sci-Fi
+20,Angels and Insects (1995),01-Jan-1997,Children|War|Western
+21,Muppet Treasure Island (1996),01-Jan-1994,Adventure|Musical|Sci-Fi
+22,Braveheart (1995),01-Jan-1998,Drama|War
+23,Batman Forever (1995),01-Jan-1993,Children|Drama
+24,Apollo 13 (1995),01-Jan-1994,Sci-Fi
+25,"Net, The (1995)",01-Jan-1994,Animation|Sci-Fi
+26,Sense and Sensibility (1995),01-Jan-1991,Documentary
+27,Leaving Las Vegas (1995),01-Jan-1995,Comedy|Crime|Romance
+28,City Hall (1996),01-Jan-1993,Adventure
+29,"Shaggy Dog, The (1959)",01-Jan-1995,Crime|Fantasy|Horror
+30,Ace Ventura: Pet Detective (1994),01-Jan-1994,Comedy
+31,Star Wars (1977),01-Jan-1994,Action|Sci-Fi
+32,Schindler's List (1993),01-Jan-1994,Drama|War
+33,Forrest Gump (1994),01-Jan-1998,Drama|War
+34,Pulp Fiction (1994),01-Jan-1991,Crime|Drama|Thriller
+35,The Silence of the Lambs (1991),01-Jan-1992,Crime|Drama|Thriller
+36,Fargo (1996),01-Jan-1996,Crime|Drama|Thriller
+37,The Shawshank Redemption (1994),01-Jan-1990,Comedy|Western
+38,Goodfellas (1990),01-Jan-1993,Crime|Drama|Thriller
+39,Jurassic Park (1993),01-Jan-1992,Drama|Horror|Mystery
+40,Terminator 2: Judgment Day (1991),01-Jan-1997,Action|Sci-Fi
+41,The Lion King (1994),01-Jan-1992,Animation|Children|Comedy
+42,Aladdin (1992),01-Jan-1994,Animation|Children|Comedy
+43,Beauty and the Beast (1991),01-Jan-1996,Animation|Children|Comedy
+44,Home Alone (1990),01-Jan-1996,Animation|Western
+45,Dances with Wolves (1990),01-Jan-1996,Fantasy|Musical|Sci-Fi
+46,Rain Man (1988),01-Jan-1997,Action|Animation
+47,Die Hard (1988),01-Jan-1997,Action|Sci-Fi
+48,Back to the Future (1985),01-Jan-1995,Western
+49,Raiders of the Lost Ark (1981),01-Jan-1996,Action|Sci-Fi
+50,E.T. the Extra-Terrestrial (1982),01-Jan-1993,Documentary|Thriller
+51,Indiana Jones and the Last Crusade (1989),01-Jan-1994,Film-Noir|Horror
+52,The Fugitive (1993),01-Jan-1998,Comedy|Horror|Thriller
+53,Speed (1994),01-Jan-1990,Children
+54,True Lies (1994),01-Jan-1997,Children
+55,The Rock (1996),01-Jan-1992,Action|Sci-Fi
+56,Mission Impossible (1996),01-Jan-1996,Action|Sci-Fi
+57,Independence Day (1996),01-Jan-1993,Action|Sci-Fi
+58,Twister (1996),01-Jan-1992,Crime|Fantasy|Film-Noir
+59,Jerry Maguire (1996),01-Jan-1991,Animation|Fantasy|Musical
+60,The English Patient (1996),01-Jan-1995,Adventure|Crime|Mystery
+61,Evita (1996),01-Jan-1994,Animation|Drama|Romance
+62,Michael Collins (1996),01-Jan-1991,Documentary
+63,Sling Blade (1996),01-Jan-1997,Comedy
+64,Shine (1996),01-Jan-1993,Action|Sci-Fi|War
+65,Secrets & Lies (1996),01-Jan-1995,Romance
+66,Breaking the Waves (1996),01-Jan-1992,Animation|Drama
+67,Trainspotting (1996),01-Jan-1996,Children
+68,Scream (1996),01-Jan-1991,Horror|Thriller
+69,Sleepers (1996),01-Jan-1995,Comedy|Film-Noir
+70,Primal Fear (1996),01-Jan-1996,Comedy
+71,The Craft (1996),01-Jan-1991,Action|Crime|Sci-Fi
+72,Eraser (1996),01-Jan-1995,Comedy|Documentary|Romance
+73,The Island of Dr. Moreau (1996),01-Jan-1997,Animation
+74,The Nutty Professor (1996),01-Jan-1991,Comedy
+75,The Cable Guy (1996),01-Jan-1992,Comedy
+76,Bulletproof (1996),01-Jan-1991,Musical|Mystery|Romance
+77,The Crow: City of Angels (1996),01-Jan-1995,Drama
+78,Ransom (1996),01-Jan-1994,Animation|Drama|Film-Noir
+79,Michael (1996),01-Jan-1990,Documentary|Film-Noir|War
+80,101 Dalmatians (1996),01-Jan-1996,Adventure|Drama
+81,Space Jam (1996),01-Jan-1997,Children|Drama
+82,Jingle All the Way (1996),01-Jan-1997,Action|Animation|War
+83,Mars Attacks! (1996),01-Jan-1995,Comedy|Mystery
+84,The Mirror Has Two Faces (1996),01-Jan-1996,Crime|Western
+85,Hamlet (1996),01-Jan-1997,Action
+86,Emma (1996),01-Jan-1991,Fantasy
+87,Fly Away Home (1996),01-Jan-1993,Adventure
+88,The Ghost and the Darkness (1996),01-Jan-1996,Film-Noir|Romance|War
+89,Sleepless in Seattle (1993),01-Jan-1996,Comedy|Romance
+90,Pretty Woman (1990),01-Jan-1996,Comedy|Romance
+91,When Harry Met Sally... (1989),01-Jan-1991,Comedy|Romance
+92,My Best Friend's Wedding (1997),01-Jan-1998,Comedy|Romance
+93,Liar Liar (1997),01-Jan-1998,Comedy
+94,Grosse Pointe Blank (1997),01-Jan-1992,Animation|Film-Noir
+95,Austin Powers: International Man of Mystery (1997),01-Jan-1991,Comedy
+96,Air Force One (1997),01-Jan-1998,Comedy
+97,The Fifth Element (1997),01-Jan-1998,Animation|Mystery
+98,The Lost World: Jurassic Park (1997),01-Jan-1994,Adventure|Drama|Romance
+99,Men in Black (1997),01-Jan-1993,Romance
+100,Contact (1997),01-Jan-1991,Sci-Fi|Thriller
+101,Conspiracy Theory (1997),01-Jan-1997,Adventure|Crime|Film-Noir
+102,L.A. Confidential (1997),01-Jan-1991,Comedy
+103,Donnie Brasco (1997),01-Jan-1990,Crime|Drama|Thriller
+104,Boogie Nights (1997),01-Jan-1992,Musical|War
+105,Good Will Hunting (1997),01-Jan-1998,Crime|Fantasy|Musical
+106,Titanic (1997),01-Jan-1992,Drama|War
+107,As Good as It Gets (1997),01-Jan-1994,Action|Children|Horror
+108,"Full Monty, The (1997)",01-Jan-1996,Animation|War
+109,Amistad (1997),01-Jan-1994,Drama|War
+110,Deconstructing Harry (1997),01-Jan-1991,Sci-Fi|War
+111,Jackie Brown (1997),01-Jan-1995,Thriller
+112,The Game (1997),01-Jan-1992,Crime|Fantasy
+113,Cube (1997),01-Jan-1991,Action|Children|Drama
+114,Gattaca (1997),01-Jan-1990,Sci-Fi|Thriller
+115,Event Horizon (1997),01-Jan-1990,Horror|Sci-Fi|Thriller
+116,Starship Troopers (1997),01-Jan-1993,Thriller
+117,Alien Resurrection (1997),01-Jan-1995,Comedy|Crime
+118,Volcano (1997),01-Jan-1990,Sci-Fi|Thriller
+119,Dante's Peak (1997),01-Jan-1998,Drama|Horror|Romance
+120,Anaconda (1997),01-Jan-1993,Fantasy|Horror
+121,Mortal Kombat: Annihilation (1997),01-Jan-1991,Adventure|Children|Musical
+122,Batman & Robin (1997),01-Jan-1992,War
+123,The Saint (1997),01-Jan-1990,Animation|Sci-Fi
+124,Face/Off (1997),01-Jan-1994,Animation|Horror
+125,Con Air (1997),01-Jan-1998,Action|Musical
+126,Speed 2: Cruise Control (1997),01-Jan-1993,Drama|Film-Noir
+127,Flubber (1997),01-Jan-1997,Comedy
+128,George of the Jungle (1997),01-Jan-1995,Comedy
+129,Jungle 2 Jungle (1997),01-Jan-1997,Western
+130,My Fellow Americans (1996),01-Jan-1993,Action
+131,The Preacher's Wife (1996),01-Jan-1996,Drama
+132,Phenomenon (1996),01-Jan-1998,Action|Horror
+133,Bulletproof Monk (2003),01-Jan-1990,Children|Film-Noir|Mystery
+134,Shanghai Knights (2003),01-Jan-1993,Drama|Romance|Thriller
+135,Daredevil (2003),01-Jan-1990,Fantasy
+136,Chicago (2002),01-Jan-1991,Drama
+137,Gangs of New York (2002),01-Jan-1998,Musical|Sci-Fi
+138,The Pianist (2002),01-Jan-1991,Drama|War
+139,Adaptation (2002),01-Jan-1991,Animation|Comedy|Mystery
+140,About Schmidt (2002),01-Jan-1990,Comedy|Drama
+141,Punch-Drunk Love (2002),01-Jan-1994,Horror|Mystery
+142,Minority Report (2002),01-Jan-1995,Fantasy|Sci-Fi
+143,Catch Me If You Can (2002),01-Jan-1993,Documentary
+144,Road to Perdition (2002),01-Jan-1992,Children|Comedy|Western
+145,Signs (2002),01-Jan-1992,Horror|Sci-Fi
+146,Spider-Man (2002),01-Jan-1996,Western
+147,The Lord of the Rings: The Two Towers (2002),01-Jan-1995,Sci-Fi
+148,Harry Potter and the Chamber of Secrets (2002),01-Jan-1994,Children|Fantasy
+149,Die Another Day (2002),01-Jan-1991,Film-Noir
+150,8 Mile (2002),01-Jan-1990,Horror
+151,Bowling for Columbine (2002),01-Jan-1992,Drama
+152,Frida (2002),01-Jan-1995,Adventure|War
+153,The Hours (2002),01-Jan-1994,Action|Crime
+154,Far from Heaven (2002),01-Jan-1996,Drama|Western
+155,Talk to Her (2002),01-Jan-1991,Children|Comedy
+156,Spirited Away (2001),01-Jan-1991,Animation|Children|Comedy
+157,Amélie (2001),01-Jan-1990,Comedy|Romance
+158,Mulholland Drive (2001),01-Jan-1990,Comedy
+159,A Beautiful Mind (2001),01-Jan-1993,Animation|Musical
+160,Gosford Park (2001),01-Jan-1994,Action
+161,Moulin Rouge! (2001),01-Jan-1991,Sci-Fi
+162,The Lord of the Rings: The Fellowship of the Ring (2001),01-Jan-1992,Horror
+163,Harry Potter and the Sorcerer's Stone (2001),01-Jan-1991,Sci-Fi
+164,Shrek (2001),01-Jan-1990,Animation|Children|Comedy
+165,Ocean's Eleven (2001),01-Jan-1992,Mystery|Romance|Thriller
+166,Training Day (2001),01-Jan-1990,Crime|Romance
+167,Black Hawk Down (2001),01-Jan-1995,Crime
+168,Memento (2000),01-Jan-1994,Comedy|Sci-Fi
+169,Gladiator (2000),01-Jan-1990,Drama|Film-Noir|Thriller
+170,Traffic (2000),01-Jan-1996,Adventure|Animation|Thriller
+171,Erin Brockovich (2000),01-Jan-1994,Comedy|Romance
+172,Almost Famous (2000),01-Jan-1993,Action|Drama|War
+173,Crouching Tiger Hidden Dragon (2000),01-Jan-1996,Musical|Thriller|War
+174,Cast Away (2000),01-Jan-1995,Horror|Mystery|War
+175,The Perfect Storm (2000),01-Jan-1994,Action
+176,X-Men (2000),01-Jan-1995,Action|Drama|Fantasy
+177,Mission Impossible 2 (2000),01-Jan-1990,Action|Sci-Fi
+178,Scary Movie (2000),01-Jan-1997,Crime|Drama|Musical
+179,Chicken Run (2000),01-Jan-1991,Animation|Children|Comedy
+180,Snatch (2000),01-Jan-1993,Adventure|Drama|Fantasy
+181,American Psycho (2000),01-Jan-1993,Crime|Musical|Mystery
+182,Requiem for a Dream (2000),01-Jan-1992,Horror
+183,Billy Elliot (2000),01-Jan-1995,Action|Comedy|Musical
+184,High Fidelity (2000),01-Jan-1993,Film-Noir|Western
+185,Chocolat (2000),01-Jan-1992,Comedy|Romance
+186,The Matrix (1999),01-Jan-1997,Action|Sci-Fi
+187,Fight Club (1999),01-Jan-1990,Adventure
+188,American Beauty (1999),01-Jan-1993,Animation|Children|Comedy
+189,The Sixth Sense (1999),01-Jan-1993,War
+190,Being John Malkovich (1999),01-Jan-1997,Horror
+191,Magnolia (1999),01-Jan-1993,Horror
+192,Eyes Wide Shut (1999),01-Jan-1992,Action|Adventure
+193,Toy Story 2 (1999),01-Jan-1992,Animation|Children|Comedy
+194,Star Wars: Episode I (1999),01-Jan-1992,Action|Sci-Fi
+195,The Mummy (1999),01-Jan-1991,Animation|Musical|Western
+196,Notting Hill (1999),01-Jan-1996,Comedy|Romance
+197,Runaway Bride (1999),01-Jan-1991,Film-Noir|Horror
+198,The Blair Witch Project (1999),01-Jan-1992,Horror|Thriller
+199,Idle Hands (1999),01-Jan-1992,Horror|Thriller
+200,Stigmata (1999),01-Jan-1996,Horror|Thriller
+201,The Thomas Crown Affair (1999),01-Jan-1997,Crime|Horror|Musical
+202,Three Kings (1999),01-Jan-1993,Crime|Film-Noir|Mystery
+203,Saving Private Ryan (1998),01-Jan-1994,Drama|War
+204,Armageddon (1998),01-Jan-1992,Sci-Fi|Thriller
+205,There's Something About Mary (1998),01-Jan-1992,Action|Adventure|Mystery
+206,Shakespeare in Love (1998),01-Jan-1992,Children|Drama|Horror
+207,Life is Beautiful (La vita e bella) (1998),01-Jan-1997,Horror
+208,The Truman Show (1998),01-Jan-1991,Musical
+209,Mulan (1998),01-Jan-1995,Animation|Children|Comedy
+210,Deep Impact (1998),01-Jan-1992,Sci-Fi|Thriller
+211,The Mask of Zorro (1998),01-Jan-1991,Action|Horror|Sci-Fi
+212,Rush Hour (1998),01-Jan-1994,Drama
+213,Patch Adams (1998),01-Jan-1991,Children|Fantasy
+214,City of Angels (1998),01-Jan-1990,Mystery
+215,You've Got Mail (1998),01-Jan-1997,Crime|Romance|Western
+216,Enemy of the State (1998),01-Jan-1997,Musical|Mystery
+217,A Bug's Life (1998),01-Jan-1991,Animation|Children|Comedy
+218,Pleasantville (1998),01-Jan-1997,Crime|Drama|Sci-Fi
+219,The Negotiator (1998),01-Jan-1991,Film-Noir
+220,Snake Eyes (1998),01-Jan-1990,Children|Fantasy
+221,Fear and Loathing in Las Vegas (1998),01-Jan-1991,Crime|Mystery
+222,The Big Lebowski (1998),01-Jan-1992,Animation|Horror|Western
+223,Pi (1998),01-Jan-1997,Sci-Fi|Thriller
+224,Dark City (1998),01-Jan-1990,Sci-Fi|Thriller
+225,Ronin (1998),01-Jan-1996,Crime|Romance|Western
+226,Blade (1998),01-Jan-1990,Horror
+227,Lethal Weapon 4 (1998),01-Jan-1993,Romance
+228,Wild Things (1998),01-Jan-1998,Fantasy|Film-Noir|Western
+229,I Know What You Did Last Summer (1997),01-Jan-1994,Children
+230,Wag the Dog (1997),01-Jan-1990,Thriller|Western
+231,In & Out (1997),01-Jan-1992,Musical
+232,The Devil's Advocate (1997),01-Jan-1990,Animation|Film-Noir
+233,Cop Land (1997),01-Jan-1997,Children
+234,Lolita (1997),01-Jan-1990,Crime
+235,Seven Years in Tibet (1997),01-Jan-1994,Thriller
+236,The Peacemaker (1997),01-Jan-1991,Mystery|Thriller
+237,Kiss the Girls (1997),01-Jan-1997,Animation|Fantasy|Mystery
+238,Romy and Michele's High School Reunion (1997),01-Jan-1992,Musical|Mystery
+239,Selena (1997),01-Jan-1992,Adventure|Fantasy
+240,Chasing Amy (1997),01-Jan-1997,Drama|Fantasy
+241,Ulee's Gold (1997),01-Jan-1994,Adventure|Children|Comedy
+242,Mrs. Brown (1997),01-Jan-1991,Drama|Musical|Romance
+243,Midnight in the Garden of Good and Evil (1997),01-Jan-1998,Mystery
+244,The Apostle (1997),01-Jan-1998,Thriller|Western
+245,G.I. Jane (1997),01-Jan-1993,Animation|Film-Noir
+246,Trial and Error (1997),01-Jan-1996,Adventure|Comedy|War
+247,Picture Perfect (1997),01-Jan-1991,Crime|Western
+248,In the Company of Men (1997),01-Jan-1993,Comedy
+249,The Locusts (1997),01-Jan-1990,Animation|Romance
+250,August (1996),01-Jan-1993,Comedy|Fantasy|Horror
+251,Alaska (1996),01-Jan-1991,Mystery
+252,Celtic Pride (1996),01-Jan-1998,Horror|Western
+253,Jack (1996),01-Jan-1994,Comedy
+254,Courage Under Fire (1996),01-Jan-1998,Action|War
+255,The Long Kiss Goodnight (1996),01-Jan-1996,Romance
+256,Last Man Standing (1996),01-Jan-1992,Children
+257,Eye for an Eye (1996),01-Jan-1991,Children|Film-Noir|Musical
+258,The Trigger Effect (1996),01-Jan-1996,Mystery|Thriller
+259,Multiplicity (1996),01-Jan-1997,Crime
+260,Eddie (1996),01-Jan-1994,Comedy|Mystery
+261,Tin Cup (1996),01-Jan-1990,Drama|Horror
+262,Movie 273: Action Story (1991),01-Jan-1990,Fantasy|Musical|Thriller
+263,Movie 274: Thriller Story (1994),01-Jan-1990,Film-Noir|Western
+264,Movie 275: Drama Story (1993),01-Jan-1994,Children|Drama
+265,Movie 276: Animation Story (1991),01-Jan-1992,Horror|Sci-Fi
+266,Movie 277: Documentary Story (1991),01-Jan-1994,Animation|Documentary|Romance
+267,Movie 278: Action Story (1996),01-Jan-1997,Romance
+268,Movie 279: Comedy Story (1990),01-Jan-1997,Adventure|Crime|Musical
+269,Movie 280: Thriller Story (1993),01-Jan-1991,Mystery|War
+270,Movie 281: Documentary Story (1998),01-Jan-1992,Action|Crime|Documentary
+271,Movie 282: Animation Story (1990),01-Jan-1993,Drama
+272,Movie 283: Animation Story (1993),01-Jan-1990,Adventure|Musical
+273,Movie 284: Thriller Story (1996),01-Jan-1993,Musical|Sci-Fi
+274,Movie 285: Documentary Story (1997),01-Jan-1998,Action|Children
+275,Movie 286: Action Story (1994),01-Jan-1993,Sci-Fi|Thriller
+276,Movie 287: Horror Story (1992),01-Jan-1992,Horror|Thriller
+277,Movie 288: Romance Story (1995),01-Jan-1997,Musical|War|Western
+278,Movie 289: Thriller Story (1992),01-Jan-1992,Animation|Film-Noir
+279,Movie 290: Comedy Story (1995),01-Jan-1990,Adventure|Crime
+280,Movie 291: Horror Story (1991),01-Jan-1993,Horror|Thriller
+281,Movie 292: Sci-Fi Story (1991),01-Jan-1993,Documentary|Drama|Fantasy
+282,Movie 293: Documentary Story (1995),01-Jan-1996,Action|Thriller|Western
+283,Movie 294: Action Story (1994),01-Jan-1992,Action|Crime|Drama
+284,Movie 295: Animation Story (1997),01-Jan-1994,Fantasy|Film-Noir|Romance
+285,Movie 296: Horror Story (1991),01-Jan-1996,Horror|Thriller
+286,Movie 297: Animation Story (1991),01-Jan-1995,Documentary|Fantasy
+287,Movie 298: Documentary Story (1994),01-Jan-1997,Mystery|War
+288,Movie 299: Documentary Story (1995),01-Jan-1991,War
+289,Movie 300: Comedy Story (1993),01-Jan-1995,Children|Film-Noir|Western
+290,Movie 301: Thriller Story (1990),01-Jan-1997,Horror
+291,Movie 302: Comedy Story (1994),01-Jan-1994,Fantasy|Horror|War
+292,Movie 303: Comedy Story (1993),01-Jan-1994,Comedy
+293,Movie 304: Romance Story (1996),01-Jan-1998,Adventure
+294,Movie 305: Sci-Fi Story (1997),01-Jan-1996,Action|Comedy|Horror
+295,Movie 306: Sci-Fi Story (1992),01-Jan-1997,Fantasy|Romance
+296,Movie 307: Thriller Story (1995),01-Jan-1996,Adventure|Documentary
+297,Movie 308: Comedy Story (1994),01-Jan-1995,Drama|Musical|Thriller
+298,Movie 309: Animation Story (1992),01-Jan-1998,Crime|Western
+299,Movie 310: Drama Story (1993),01-Jan-1994,Thriller
+300,Movie 311: Horror Story (1997),01-Jan-1992,Horror|Thriller
+301,Movie 312: Animation Story (1994),01-Jan-1994,Crime|Horror|Western
+302,Movie 313: Sci-Fi Story (1993),01-Jan-1991,Musical
+303,Movie 314: Thriller Story (1990),01-Jan-1993,Film-Noir|Horror|Romance
+304,Movie 315: Sci-Fi Story (1990),01-Jan-1995,Film-Noir|Sci-Fi
+305,Movie 316: Romance Story (1996),01-Jan-1991,Adventure|Animation
+306,Movie 317: Thriller Story (1991),01-Jan-1997,War
+307,Movie 318: Thriller Story (1995),01-Jan-1991,Film-Noir|Mystery|War
+308,Movie 319: Horror Story (1997),01-Jan-1996,Horror|Thriller
+309,Movie 320: Drama Story (1997),01-Jan-1990,Comedy
+310,Movie 321: Drama Story (1994),01-Jan-1993,Romance|Sci-Fi
+311,Movie 322: Animation Story (1993),01-Jan-1992,Animation|Crime
+312,Movie 323: Romance Story (1998),01-Jan-1997,Crime|Horror
+313,Movie 324: Documentary Story (1996),01-Jan-1990,Sci-Fi
+314,Movie 325: Sci-Fi Story (1996),01-Jan-1994,Crime
+315,Movie 326: Drama Story (1993),01-Jan-1992,Animation|Comedy
+316,Movie 327: Mystery Story (1998),01-Jan-1996,Mystery|Romance|Western
+317,Movie 328: Action Story (1991),01-Jan-1997,Action|Adventure
+318,Movie 329: Drama Story (1991),01-Jan-1998,Musical
+319,Movie 330: Horror Story (1992),01-Jan-1990,Horror|Thriller
+320,Movie 331: Horror Story (1991),01-Jan-1995,Horror|Thriller
+321,Movie 332: Documentary Story (1996),01-Jan-1998,Action
+322,Movie 333: Animation Story (1997),01-Jan-1990,Drama|Musical|Western
+323,Movie 334: Animation Story (1994),01-Jan-1994,Children
+324,Movie 335: Comedy Story (1990),01-Jan-1996,Animation|Crime|Film-Noir
+325,Movie 336: Romance Story (1998),01-Jan-1990,Film-Noir|Sci-Fi
+326,Movie 337: Comedy Story (1995),01-Jan-1998,Horror|Romance|War
+327,Movie 338: Horror Story (1994),01-Jan-1992,Horror|Thriller
+328,Movie 339: Mystery Story (1992),01-Jan-1995,Documentary|Musical
+329,Movie 340: Romance Story (1990),01-Jan-1992,Action|Drama
+330,Movie 341: Drama Story (1998),01-Jan-1993,Action|Comedy|Documentary
+331,Movie 342: Comedy Story (1998),01-Jan-1998,Children
+332,Movie 343: Animation Story (1994),01-Jan-1995,Adventure|Fantasy|Mystery
+333,Movie 344: Drama Story (1993),01-Jan-1998,Adventure|Children|Western
+334,Movie 345: Drama Story (1995),01-Jan-1990,Children
+335,Movie 346: Animation Story (1998),01-Jan-1996,Children|Mystery
+336,Movie 347: Documentary Story (1990),01-Jan-1998,Comedy|Thriller
+337,Movie 348: Mystery Story (1995),01-Jan-1993,Action|Film-Noir|Romance
+338,Movie 349: Comedy Story (1990),01-Jan-1991,Comedy|Fantasy|War
+339,Movie 350: Romance Story (1995),01-Jan-1996,War
+340,Movie 351: Action Story (1993),01-Jan-1991,Children|Western
+341,Movie 352: Documentary Story (1993),01-Jan-1997,Documentary
+342,Movie 353: Comedy Story (1991),01-Jan-1994,Documentary|Musical|Romance
+343,Movie 354: Comedy Story (1997),01-Jan-1994,Adventure
+344,Movie 355: Drama Story (1998),01-Jan-1998,Documentary|Thriller
+345,Movie 356: Mystery Story (1992),01-Jan-1995,Action
+346,Movie 357: Drama Story (1998),01-Jan-1990,Animation|Children|Thriller
+347,Movie 358: Animation Story (1994),01-Jan-1992,War
+348,Movie 359: Thriller Story (1996),01-Jan-1991,Children|Drama|Fantasy
+349,Movie 360: Thriller Story (1998),01-Jan-1997,Fantasy|Sci-Fi
+350,Movie 361: Horror Story (1994),01-Jan-1990,Horror|Thriller
+351,Movie 362: Mystery Story (1995),01-Jan-1991,Adventure
+352,Movie 363: Mystery Story (1998),01-Jan-1994,Horror|Romance
+353,Movie 364: Thriller Story (1991),01-Jan-1991,Adventure
+354,Movie 365: Comedy Story (1993),01-Jan-1990,Crime
+355,Movie 366: Action Story (1995),01-Jan-1995,Fantasy|Sci-Fi
+356,Movie 367: Thriller Story (1998),01-Jan-1991,Crime|Horror
+357,Movie 368: Action Story (1993),01-Jan-1991,Mystery|Sci-Fi
+358,Movie 369: Action Story (1991),01-Jan-1994,Romance|Thriller
+359,Movie 370: Comedy Story (1993),01-Jan-1992,Comedy
+360,Movie 371: Sci-Fi Story (1990),01-Jan-1990,Children
+361,Movie 372: Animation Story (1991),01-Jan-1996,Crime|Sci-Fi|Thriller
+362,Movie 373: Romance Story (1993),01-Jan-1996,Action|Comedy
+363,Movie 374: Thriller Story (1997),01-Jan-1997,Children|Romance
+364,Movie 375: Drama Story (1998),01-Jan-1997,Animation
+365,Movie 376: Thriller Story (1997),01-Jan-1994,Action|Drama|Horror
+366,Movie 377: Horror Story (1997),01-Jan-1995,Horror|Thriller
+367,Movie 378: Comedy Story (1993),01-Jan-1998,Children|Drama|Romance
+368,Movie 379: Horror Story (1991),01-Jan-1997,Horror|Thriller
+369,Movie 380: Horror Story (1995),01-Jan-1995,Horror|Thriller
+370,Movie 381: Mystery Story (1996),01-Jan-1996,Western
+371,Movie 382: Comedy Story (1990),01-Jan-1990,Crime
+372,Movie 383: Horror Story (1990),01-Jan-1998,Horror|Thriller
+373,Movie 384: Comedy Story (1995),01-Jan-1997,Animation|Crime
+374,Movie 385: Thriller Story (1993),01-Jan-1997,Drama|Horror
+375,Movie 386: Animation Story (1993),01-Jan-1994,War
+376,Movie 387: Drama Story (1997),01-Jan-1993,Drama|Mystery|Western
+377,Movie 388: Drama Story (1996),01-Jan-1991,Sci-Fi|Western
+378,Movie 389: Mystery Story (1994),01-Jan-1991,Horror|Sci-Fi
+379,Movie 390: Comedy Story (1993),01-Jan-1991,Action|Children
+380,Movie 391: Animation Story (1997),01-Jan-1996,Action|Adventure
+381,Movie 392: Action Story (1991),01-Jan-1991,Documentary|Film-Noir|War
+382,Movie 393: Action Story (1998),01-Jan-1997,Adventure|Musical
+383,Movie 394: Thriller Story (1991),01-Jan-1993,Horror|Thriller
+384,Movie 395: Horror Story (1992),01-Jan-1995,Horror|Thriller
+385,Movie 396: Mystery Story (1997),01-Jan-1997,Children
+386,Movie 397: Horror Story (1993),01-Jan-1993,Horror|Thriller
+387,Movie 398: Drama Story (1990),01-Jan-1990,Film-Noir|Musical
+388,Movie 399: Action Story (1996),01-Jan-1998,Adventure|Children|Musical
+389,Movie 400: Romance Story (1996),01-Jan-1992,Comedy|Romance
+390,Movie 401: Romance Story (1997),01-Jan-1991,Documentary|Western
+391,Movie 402: Animation Story (1996),01-Jan-1991,Documentary|Sci-Fi
+392,Movie 403: Drama Story (1997),01-Jan-1993,Children|Horror|Romance
+393,Movie 404: Romance Story (1993),01-Jan-1990,Children|Sci-Fi|War
+394,Movie 405: Action Story (1993),01-Jan-1998,Thriller
+395,Movie 406: Action Story (1998),01-Jan-1990,Adventure|Romance|Thriller
+396,Movie 407: Action Story (1995),01-Jan-1998,Crime
+397,Movie 408: Documentary Story (1990),01-Jan-1992,Mystery
+398,Movie 409: Animation Story (1997),01-Jan-1995,Drama|Mystery|Romance
+399,Movie 410: Drama Story (1998),01-Jan-1994,Film-Noir|Horror
+400,Movie 411: Animation Story (1990),01-Jan-1997,Comedy
+401,Movie 412: Drama Story (1991),01-Jan-1996,Film-Noir|Horror|War
+402,Movie 413: Documentary Story (1991),01-Jan-1998,Documentary|War|Western
+403,Movie 414: Thriller Story (1991),01-Jan-1994,Comedy|Crime|Musical
+404,Movie 415: Comedy Story (1996),01-Jan-1998,Children|Horror|Musical
+405,Movie 416: Documentary Story (1993),01-Jan-1998,Film-Noir|Romance
+406,Movie 417: Documentary Story (1990),01-Jan-1996,War
+407,Movie 418: Horror Story (1991),01-Jan-1991,Horror|Thriller
+408,Movie 419: Sci-Fi Story (1998),01-Jan-1990,Adventure|Comedy
+409,Movie 420: Thriller Story (1994),01-Jan-1990,Fantasy
+410,Movie 421: Thriller Story (1995),01-Jan-1992,Comedy|Fantasy
+411,Movie 422: Horror Story (1994),01-Jan-1990,Horror|Thriller
+412,Movie 423: Romance Story (1992),01-Jan-1994,Western
+413,Movie 424: Sci-Fi Story (1997),01-Jan-1990,Children|Sci-Fi
+414,Movie 425: Action Story (1991),01-Jan-1998,Western
+415,Movie 426: Documentary Story (1997),01-Jan-1996,War
+416,Movie 427: Comedy Story (1991),01-Jan-1994,Adventure|Mystery|War
+417,Movie 428: Thriller Story (1998),01-Jan-1996,Action|Adventure|Horror
+418,Movie 429: Romance Story (1998),01-Jan-1994,Sci-Fi
+419,Movie 430: Sci-Fi Story (1992),01-Jan-1993,Documentary|Musical|War
+420,Movie 431: Thriller Story (1991),01-Jan-1994,Animation|Crime
+421,Movie 432: Romance Story (1995),01-Jan-1992,War
+422,Movie 433: Mystery Story (1992),01-Jan-1991,Adventure|Romance
+423,Movie 434: Romance Story (1998),01-Jan-1994,Comedy|Crime|Fantasy
+424,Movie 435: Action Story (1998),01-Jan-1994,Horror
+425,Movie 436: Romance Story (1998),01-Jan-1997,Adventure|Comedy|Western
+426,Movie 437: Drama Story (1991),01-Jan-1995,Adventure|Film-Noir|Thriller
+427,Movie 438: Comedy Story (1994),01-Jan-1998,Animation|Horror
+428,Movie 439: Animation Story (1991),01-Jan-1998,Crime
+429,Movie 440: Romance Story (1992),01-Jan-1998,War
+430,Movie 441: Documentary Story (1994),01-Jan-1992,Mystery|Western
+431,Movie 442: Sci-Fi Story (1993),01-Jan-1991,Documentary|Drama
+432,Movie 443: Romance Story (1993),01-Jan-1995,Film-Noir|Musical
+433,Movie 444: Mystery Story (1998),01-Jan-1993,Action|Thriller|War
+434,Movie 445: Action Story (1994),01-Jan-1991,Drama|Musical|Sci-Fi
+435,Movie 446: Horror Story (1991),01-Jan-1993,Horror|Thriller
+436,Movie 447: Action Story (1994),01-Jan-1990,Children|Horror|Mystery
+437,Movie 448: Sci-Fi Story (1990),01-Jan-1996,Film-Noir|Western
+438,Movie 449: Romance Story (1992),01-Jan-1990,Musical|Sci-Fi|War
+439,Movie 450: Mystery Story (1992),01-Jan-1997,Film-Noir
+440,Movie 451: Horror Story (1998),01-Jan-1993,Horror|Thriller
+441,Movie 452: Action Story (1998),01-Jan-1995,Animation|Children|Crime
+442,Movie 453: Comedy Story (1991),01-Jan-1998,Action|Animation|Documentary
+443,Movie 454: Animation Story (1992),01-Jan-1993,Children|Documentary|Romance
+444,Movie 455: Sci-Fi Story (1990),01-Jan-1998,Animation|Comedy|Romance
+445,Movie 456: Drama Story (1998),01-Jan-1990,Adventure|Horror
+446,Movie 457: Drama Story (1996),01-Jan-1991,Adventure
+447,Movie 458: Romance Story (1990),01-Jan-1992,Animation|Western
+448,Movie 459: Action Story (1995),01-Jan-1993,Mystery|Romance
+449,Movie 460: Thriller Story (1995),01-Jan-1997,Horror|Mystery|Romance
+450,Movie 461: Comedy Story (1993),01-Jan-1990,Action|Children
+451,Movie 462: Animation Story (1995),01-Jan-1991,Adventure|Animation|Musical
+452,Movie 463: Documentary Story (1996),01-Jan-1998,Film-Noir
+453,Movie 464: Thriller Story (1992),01-Jan-1994,Animation|Film-Noir|Sci-Fi
+454,Movie 465: Drama Story (1992),01-Jan-1996,Action|Thriller
+455,Movie 466: Action Story (1996),01-Jan-1992,Comedy|Drama|Mystery
+456,Movie 467: Sci-Fi Story (1992),01-Jan-1998,Comedy|Film-Noir
+457,Movie 468: Thriller Story (1996),01-Jan-1995,Western
+458,Movie 469: Drama Story (1994),01-Jan-1998,Children
+459,Movie 470: Horror Story (1991),01-Jan-1990,Horror|Thriller
+460,Movie 471: Mystery Story (1990),01-Jan-1990,Animation|Film-Noir|Mystery
+461,Movie 472: Thriller Story (1993),01-Jan-1993,Documentary|Musical|Romance
+462,Movie 473: Sci-Fi Story (1997),01-Jan-1998,Crime
+463,Movie 474: Thriller Story (1994),01-Jan-1992,Fantasy
+464,Movie 475: Action Story (1993),01-Jan-1993,Crime
+465,Movie 476: Horror Story (1993),01-Jan-1990,Horror|Thriller
+466,Movie 477: Romance Story (1995),01-Jan-1998,Animation|Western
+467,Movie 478: Romance Story (1991),01-Jan-1994,Animation|Children|Fantasy
+468,Movie 479: Animation Story (1995),01-Jan-1993,Horror|Musical|Thriller
+469,Movie 480: Animation Story (1996),01-Jan-1992,Children|Drama|Film-Noir
+470,Movie 481: Action Story (1995),01-Jan-1991,Horror
+471,Movie 482: Romance Story (1991),01-Jan-1997,Film-Noir|Horror
+472,Movie 483: Documentary Story (1992),01-Jan-1992,Horror|Musical|Romance
+473,Movie 484: Action Story (1994),01-Jan-1992,Horror
+474,Movie 485: Documentary Story (1991),01-Jan-1993,Romance
+475,Movie 486: Sci-Fi Story (1996),01-Jan-1994,Comedy|Horror
+476,Movie 487: Horror Story (1995),01-Jan-1997,Horror|Thriller
+477,Movie 488: Comedy Story (1998),01-Jan-1997,Film-Noir|Musical
+478,Movie 489: Documentary Story (1996),01-Jan-1997,Animation|Children|Crime
+479,Movie 490: Romance Story (1993),01-Jan-1994,Western
+480,Movie 491: Horror Story (1990),01-Jan-1993,Horror|Thriller
+481,Movie 492: Animation Story (1990),01-Jan-1994,Action|Animation|Western
+482,Movie 493: Thriller Story (1998),01-Jan-1998,Action|Documentary|Mystery
+483,Movie 494: Horror Story (1995),01-Jan-1990,Horror|Thriller
+484,Movie 495: Sci-Fi Story (1991),01-Jan-1998,Thriller|Western
+485,Movie 496: Comedy Story (1995),01-Jan-1992,Drama|Mystery
+486,Movie 497: Animation Story (1994),01-Jan-1994,Sci-Fi
+487,Movie 498: Horror Story (1994),01-Jan-1998,Horror|Thriller
+488,Movie 499: Horror Story (1995),01-Jan-1998,Horror|Thriller
+489,Movie 500: Animation Story (1994),01-Jan-1991,Musical|War
+490,Movie 501: Thriller Story (1992),01-Jan-1990,Comedy|Crime|Drama
+491,Movie 502: Horror Story (1996),01-Jan-1997,Horror|Thriller
+492,Movie 503: Documentary Story (1992),01-Jan-1992,Comedy
+493,Movie 504: Horror Story (1994),01-Jan-1997,Horror|Thriller
+494,Movie 505: Action Story (1998),01-Jan-1995,Drama
+495,Movie 506: Romance Story (1994),01-Jan-1997,Animation
+496,Movie 507: Horror Story (1993),01-Jan-1994,Horror|Thriller
+497,Movie 508: Mystery Story (1995),01-Jan-1995,Adventure
+498,Movie 509: Mystery Story (1997),01-Jan-1993,Musical|Mystery|Thriller
+499,Movie 510: Animation Story (1993),01-Jan-1997,Adventure
+500,Movie 511: Drama Story (1997),01-Jan-1995,War
+501,Movie 512: Romance Story (1991),01-Jan-1994,Crime|Fantasy|Mystery
+502,Movie 513: Documentary Story (1998),01-Jan-1996,Animation|War
+503,Movie 514: Comedy Story (1995),01-Jan-1994,Drama|War
+504,Movie 515: Romance Story (1993),01-Jan-1996,Musical|Thriller
+505,Movie 516: Thriller Story (1993),01-Jan-1997,Action|Comedy|War
+506,Movie 517: Action Story (1992),01-Jan-1997,Drama
+507,Movie 518: Thriller Story (1990),01-Jan-1991,Comedy|Documentary|Fantasy
+508,Movie 519: Documentary Story (1997),01-Jan-1992,Musical
+509,Movie 520: Mystery Story (1991),01-Jan-1991,Drama|Horror|Romance
+510,Movie 521: Documentary Story (1996),01-Jan-1991,Thriller|Western
+511,Movie 522: Horror Story (1993),01-Jan-1993,Horror|Thriller
+512,Movie 523: Horror Story (1997),01-Jan-1992,Horror|Thriller
+513,Movie 524: Drama Story (1993),01-Jan-1996,Drama
+514,Movie 525: Comedy Story (1990),01-Jan-1990,Crime
+515,Movie 526: Thriller Story (1996),01-Jan-1992,Adventure|Comedy|War
+516,Movie 527: Animation Story (1992),01-Jan-1990,Fantasy
+517,Movie 528: Action Story (1997),01-Jan-1992,Action|Film-Noir|Mystery
+518,Movie 529: Thriller Story (1998),01-Jan-1991,Sci-Fi
+519,Movie 530: Mystery Story (1991),01-Jan-1997,Crime|Drama
+520,Movie 531: Mystery Story (1992),01-Jan-1996,Comedy|Crime|Fantasy
+521,Movie 532: Animation Story (1998),01-Jan-1992,Animation|Horror|Sci-Fi
+522,Movie 533: Mystery Story (1995),01-Jan-1993,Comedy|Mystery
+523,Movie 534: Horror Story (1998),01-Jan-1991,Horror|Thriller
+524,Movie 535: Mystery Story (1998),01-Jan-1990,War
+525,Movie 536: Mystery Story (1992),01-Jan-1998,Children|Comedy|Romance
+526,Movie 537: Romance Story (1997),01-Jan-1992,Adventure|War
+527,Movie 538: Romance Story (1993),01-Jan-1991,Thriller
+528,Movie 539: Mystery Story (1998),01-Jan-1992,Action|Romance|Western
+529,Movie 540: Romance Story (1993),01-Jan-1998,Adventure|Musical
+530,Movie 541: Comedy Story (1997),01-Jan-1998,Drama|Thriller
+531,Movie 542: Thriller Story (1994),01-Jan-1996,Children|Romance
+532,Movie 543: Sci-Fi Story (1994),01-Jan-1992,Drama|Thriller
+533,Movie 544: Animation Story (1995),01-Jan-1991,Romance|Western
+534,Movie 545: Drama Story (1991),01-Jan-1994,Action
+535,Movie 546: Thriller Story (1992),01-Jan-1990,Action|Children|War
+536,Movie 547: Drama Story (1996),01-Jan-1996,Documentary|Horror|Romance
+537,Movie 548: Comedy Story (1993),01-Jan-1995,Comedy
+538,Movie 549: Horror Story (1996),01-Jan-1996,Horror|Thriller
+539,Movie 550: Animation Story (1995),01-Jan-1994,Romance|Western
+540,Movie 551: Horror Story (1997),01-Jan-1995,Horror|Thriller
+541,Movie 552: Thriller Story (1990),01-Jan-1994,Documentary|Mystery|Romance
+542,Movie 553: Horror Story (1996),01-Jan-1998,Horror|Thriller
+543,Movie 554: Documentary Story (1990),01-Jan-1998,Crime|Musical
+544,Movie 555: Mystery Story (1996),01-Jan-1998,Fantasy|Film-Noir|Thriller
+545,Movie 556: Sci-Fi Story (1990),01-Jan-1995,Children|Comedy|Mystery
+546,Movie 557: Horror Story (1994),01-Jan-1993,Horror|Thriller
+547,Movie 558: Animation Story (1996),01-Jan-1997,Children|Crime|Documentary
+548,Movie 559: Documentary Story (1998),01-Jan-1998,Adventure|Horror
+549,Movie 560: Mystery Story (1993),01-Jan-1992,Action|Animation
+550,Movie 561: Romance Story (1993),01-Jan-1992,Animation|Romance
+551,Movie 562: Mystery Story (1996),01-Jan-1991,Drama|Musical
+552,Movie 563: Horror Story (1990),01-Jan-1991,Horror|Thriller
+553,Movie 564: Horror Story (1995),01-Jan-1990,Horror|Thriller
+554,Movie 565: Mystery Story (1992),01-Jan-1996,Film-Noir|War
+555,Movie 566: Documentary Story (1992),01-Jan-1990,Thriller
+556,Movie 567: Action Story (1998),01-Jan-1997,Documentary
+557,Movie 568: Documentary Story (1996),01-Jan-1998,Adventure|Documentary
+558,Movie 569: Comedy Story (1990),01-Jan-1998,Adventure|Crime|Drama
+559,Movie 570: Drama Story (1996),01-Jan-1995,Action
+560,Movie 571: Drama Story (1997),01-Jan-1992,Fantasy
+561,Movie 572: Romance Story (1990),01-Jan-1996,Mystery|Western
+562,Movie 573: Sci-Fi Story (1996),01-Jan-1993,Action|Animation|War
+563,Movie 574: Mystery Story (1993),01-Jan-1998,Musical|Western
+564,Movie 575: Sci-Fi Story (1995),01-Jan-1995,Documentary|Drama
+565,Movie 576: Romance Story (1996),01-Jan-1997,Action|Fantasy
+566,Movie 577: Romance Story (1996),01-Jan-1992,Children|War
+567,Movie 578: Mystery Story (1991),01-Jan-1998,War
+568,Movie 579: Animation Story (1990),01-Jan-1994,Children|War
+569,Movie 580: Sci-Fi Story (1990),01-Jan-1994,Fantasy|Mystery|Sci-Fi
+570,Movie 581: Comedy Story (1993),01-Jan-1997,Horror
+571,Movie 582: Action Story (1990),01-Jan-1997,Action|Sci-Fi|Thriller
+572,Movie 583: Thriller Story (1993),01-Jan-1991,Animation|Mystery
+573,Movie 584: Documentary Story (1990),01-Jan-1993,Drama|Horror|Romance
+574,Movie 585: Thriller Story (1992),01-Jan-1995,Action|Fantasy|Western
+575,Movie 586: Mystery Story (1992),01-Jan-1993,Animation|Mystery
+576,Movie 587: Documentary Story (1991),01-Jan-1995,Western
+577,Movie 588: Mystery Story (1993),01-Jan-1992,Horror|Musical
+578,Movie 589: Sci-Fi Story (1994),01-Jan-1993,Crime|Documentary|Fantasy
+579,Movie 590: Documentary Story (1992),01-Jan-1997,Documentary|Drama|War
+580,Movie 591: Drama Story (1991),01-Jan-1994,Drama
+581,Movie 592: Comedy Story (1994),01-Jan-1993,Musical
+582,Movie 593: Romance Story (1990),01-Jan-1992,Children
+583,Movie 594: Horror Story (1996),01-Jan-1991,Horror|Thriller
+584,Movie 595: Comedy Story (1993),01-Jan-1997,Action|Adventure|Thriller
+585,Movie 596: Comedy Story (1993),01-Jan-1995,Fantasy|Horror|Thriller
+586,Movie 597: Documentary Story (1994),01-Jan-1997,War
+587,Movie 598: Documentary Story (1991),01-Jan-1994,Comedy|Drama
+588,Movie 599: Sci-Fi Story (1990),01-Jan-1990,Adventure|Romance|Thriller
+589,Movie 600: Horror Story (1998),01-Jan-1998,Horror|Thriller
+590,Movie 601: Comedy Story (1995),01-Jan-1995,Crime|Sci-Fi
+591,Movie 602: Sci-Fi Story (1998),01-Jan-1991,Horror|Sci-Fi|War
+592,Movie 603: Horror Story (1990),01-Jan-1990,Horror|Thriller
+593,Movie 604: Comedy Story (1997),01-Jan-1990,Children|Documentary|Mystery
+594,Movie 605: Sci-Fi Story (1996),01-Jan-1995,Crime|Fantasy
+595,Movie 606: Drama Story (1997),01-Jan-1998,Drama|Fantasy
+596,Movie 607: Drama Story (1996),01-Jan-1997,Crime|Horror|Musical
+597,Movie 608: Romance Story (1998),01-Jan-1997,Documentary|Romance
+598,Movie 609: Mystery Story (1998),01-Jan-1995,Fantasy|Mystery
+599,Movie 610: Horror Story (1997),01-Jan-1997,Horror|Thriller
+600,Movie 611: Sci-Fi Story (1994),01-Jan-1992,Children|Comedy|Drama
+601,Movie 612: Comedy Story (1993),01-Jan-1994,Western
+602,Movie 613: Mystery Story (1994),01-Jan-1996,Comedy|Documentary
+603,Movie 614: Mystery Story (1993),01-Jan-1992,Action|Crime
+604,Movie 615: Sci-Fi Story (1996),01-Jan-1996,Comedy|War
+605,Movie 616: Mystery Story (1990),01-Jan-1998,Film-Noir|Horror|Thriller
+606,Movie 617: Drama Story (1995),01-Jan-1994,Adventure|Children|Mystery
+607,Movie 618: Thriller Story (1997),01-Jan-1992,Documentary
+608,Movie 619: Romance Story (1995),01-Jan-1994,Children|Sci-Fi
+609,Movie 620: Romance Story (1995),01-Jan-1995,Musical|Western
+610,Movie 621: Animation Story (1994),01-Jan-1998,Action|Fantasy|Musical
+611,Movie 622: Animation Story (1990),01-Jan-1996,Musical
+612,Movie 623: Comedy Story (1993),01-Jan-1993,Crime|Film-Noir|Western
+613,Movie 624: Horror Story (1993),01-Jan-1995,Horror|Thriller
+614,Movie 625: Animation Story (1997),01-Jan-1995,Sci-Fi|Thriller|War
+615,Movie 626: Mystery Story (1993),01-Jan-1991,Film-Noir|Sci-Fi
+616,Movie 627: Mystery Story (1997),01-Jan-1992,Horror
+617,Movie 628: Comedy Story (1990),01-Jan-1996,Animation|Mystery|War
+618,Movie 629: Thriller Story (1994),01-Jan-1992,Drama|Horror
+619,Movie 630: Thriller Story (1996),01-Jan-1995,Fantasy|Film-Noir|Mystery
+620,Movie 631: Documentary Story (1994),01-Jan-1994,Musical|War
+621,Movie 632: Mystery Story (1995),01-Jan-1997,Crime|Western
+622,Movie 633: Animation Story (1998),01-Jan-1990,Drama
+623,Movie 634: Horror Story (1995),01-Jan-1994,Horror|Thriller
+624,Movie 635: Sci-Fi Story (1998),01-Jan-1991,Crime
+625,Movie 636: Mystery Story (1995),01-Jan-1996,Children
+626,Movie 637: Romance Story (1994),01-Jan-1991,Adventure|Western
+627,Movie 638: Thriller Story (1994),01-Jan-1990,Animation|War
+628,Movie 639: Thriller Story (1991),01-Jan-1991,Animation|Comedy
+629,Movie 640: Comedy Story (1995),01-Jan-1996,Drama|Western
+630,Movie 641: Drama Story (1998),01-Jan-1994,Comedy|Western
+631,Movie 642: Thriller Story (1993),01-Jan-1998,Action
+632,Movie 643: Romance Story (1997),01-Jan-1990,Horror|Musical|Thriller
+633,Movie 644: Documentary Story (1998),01-Jan-1997,Comedy|Fantasy|Sci-Fi
+634,Movie 645: Comedy Story (1994),01-Jan-1998,Sci-Fi
+635,Movie 646: Romance Story (1993),01-Jan-1996,Film-Noir|Musical|Western
+636,Movie 647: Sci-Fi Story (1993),01-Jan-1997,Animation|Drama|Sci-Fi
+637,Movie 648: Romance Story (1992),01-Jan-1994,Fantasy|Romance
+638,Movie 649: Animation Story (1990),01-Jan-1992,Action|Western
+639,Movie 650: Romance Story (1992),01-Jan-1998,Musical
+640,Movie 651: Action Story (1990),01-Jan-1994,Action|Western
+641,Movie 652: Romance Story (1998),01-Jan-1997,Action|Film-Noir
+642,Movie 653: Mystery Story (1992),01-Jan-1996,Action|Drama
+643,Movie 654: Action Story (1991),01-Jan-1998,Documentary|Romance
+644,Movie 655: Mystery Story (1994),01-Jan-1998,Drama|Mystery
+645,Movie 656: Mystery Story (1997),01-Jan-1992,Drama|Mystery|Western
+646,Movie 657: Drama Story (1995),01-Jan-1994,Romance
+647,Movie 658: Romance Story (1990),01-Jan-1993,Fantasy|Film-Noir|Western
+648,Movie 659: Comedy Story (1997),01-Jan-1996,Animation
+649,Movie 660: Horror Story (1991),01-Jan-1992,Horror|Thriller
+650,Movie 661: Comedy Story (1997),01-Jan-1992,Children|Sci-Fi
+651,Movie 662: Drama Story (1990),01-Jan-1997,Documentary|Thriller
+652,Movie 663: Documentary Story (1992),01-Jan-1995,Comedy
+653,Movie 664: Comedy Story (1994),01-Jan-1990,Action|Children|Crime
+654,Movie 665: Comedy Story (1993),01-Jan-1994,Comedy|Sci-Fi
+655,Movie 666: Horror Story (1998),01-Jan-1990,Horror|Thriller
+656,Movie 667: Animation Story (1993),01-Jan-1993,Comedy
+657,Movie 668: Mystery Story (1996),01-Jan-1990,Documentary|Horror
+658,Movie 669: Romance Story (1997),01-Jan-1996,Musical|Thriller
+659,Movie 670: Romance Story (1996),01-Jan-1997,Adventure|Animation|Horror
+660,Movie 671: Documentary Story (1990),01-Jan-1992,Fantasy
+661,Movie 672: Thriller Story (1991),01-Jan-1996,Western
+662,Movie 673: Romance Story (1993),01-Jan-1997,Documentary
+663,Movie 674: Drama Story (1991),01-Jan-1994,Action|Children
+664,Movie 675: Drama Story (1993),01-Jan-1993,Drama|Sci-Fi
+665,Movie 676: Comedy Story (1998),01-Jan-1990,Sci-Fi
+666,Movie 677: Action Story (1992),01-Jan-1991,Documentary|Mystery|Thriller
+667,Movie 678: Mystery Story (1996),01-Jan-1994,Adventure|Crime
+668,Movie 679: Romance Story (1997),01-Jan-1998,Children|Fantasy|Thriller
+669,Movie 680: Thriller Story (1990),01-Jan-1994,Musical
+670,Movie 681: Romance Story (1994),01-Jan-1990,Children|Documentary|Drama
+671,Movie 682: Comedy Story (1997),01-Jan-1996,Action|Crime
+672,Movie 683: Romance Story (1993),01-Jan-1994,Children|Drama|Mystery
+673,Movie 684: Horror Story (1993),01-Jan-1990,Horror|Thriller
+674,Movie 685: Animation Story (1991),01-Jan-1990,Comedy|Musical|Thriller
+675,Movie 686: Drama Story (1993),01-Jan-1991,Crime
+676,Movie 687: Drama Story (1994),01-Jan-1997,Horror
+677,Movie 688: Action Story (1991),01-Jan-1990,Musical
+678,Movie 689: Romance Story (1992),01-Jan-1992,Children|Comedy|Western
+679,Movie 690: Mystery Story (1994),01-Jan-1997,Horror
+680,Movie 691: Mystery Story (1991),01-Jan-1998,Documentary|Musical|Sci-Fi
+681,Movie 692: Horror Story (1994),01-Jan-1990,Horror|Thriller
+682,Movie 693: Animation Story (1994),01-Jan-1996,Comedy|Fantasy
+683,Movie 694: Mystery Story (1998),01-Jan-1990,Film-Noir|Sci-Fi
+684,Movie 695: Comedy Story (1997),01-Jan-1998,Crime|Documentary|Thriller
+685,Movie 696: Horror Story (1990),01-Jan-1998,Horror|Thriller
+686,Movie 697: Documentary Story (1995),01-Jan-1995,Fantasy|Sci-Fi
+687,Movie 698: Action Story (1994),01-Jan-1998,Animation
+688,Movie 699: Thriller Story (1991),01-Jan-1998,Sci-Fi
+689,Movie 700: Romance Story (1990),01-Jan-1994,Musical|Western
+690,Movie 701: Drama Story (1990),01-Jan-1997,War
+691,Movie 702: Animation Story (1997),01-Jan-1996,Action|Crime|Musical
+692,Movie 703: Romance Story (1997),01-Jan-1993,Animation|Mystery
+693,Movie 704: Documentary Story (1992),01-Jan-1993,Comedy|Film-Noir|Thriller
+694,Movie 705: Mystery Story (1996),01-Jan-1995,Children|Horror
+695,Movie 706: Mystery Story (1991),01-Jan-1991,Adventure|Animation|Comedy
+696,Movie 707: Horror Story (1995),01-Jan-1992,Horror|Thriller
+697,Movie 708: Sci-Fi Story (1995),01-Jan-1990,Children
+698,Movie 709: Drama Story (1991),01-Jan-1997,Children
+699,Movie 710: Horror Story (1995),01-Jan-1990,Horror|Thriller
+700,Movie 711: Romance Story (1997),01-Jan-1996,Fantasy|Thriller|War
+701,Movie 712: Animation Story (1996),01-Jan-1990,Animation|Drama
+702,Movie 713: Mystery Story (1990),01-Jan-1990,Thriller
+703,Movie 714: Sci-Fi Story (1991),01-Jan-1991,Adventure|Musical
+704,Movie 715: Sci-Fi Story (1994),01-Jan-1998,Adventure|Musical|Romance
+705,Movie 716: Horror Story (1991),01-Jan-1994,Horror|Thriller
+706,Movie 717: Action Story (1998),01-Jan-1998,Animation
+707,Movie 718: Mystery Story (1998),01-Jan-1994,Documentary
+708,Movie 719: Action Story (1996),01-Jan-1998,Children
+709,Movie 720: Animation Story (1993),01-Jan-1993,Documentary|Mystery|War
+710,Movie 721: Documentary Story (1995),01-Jan-1998,Crime|Drama|Romance
+711,Movie 722: Mystery Story (1997),01-Jan-1991,Musical|Romance|Sci-Fi
+712,Movie 723: Thriller Story (1990),01-Jan-1991,Crime
+713,Movie 724: Animation Story (1994),01-Jan-1998,Horror|War
+714,Movie 725: Romance Story (1992),01-Jan-1992,Horror|Musical|Sci-Fi
+715,Movie 726: Mystery Story (1997),01-Jan-1998,Musical|Romance
+716,Movie 727: Action Story (1991),01-Jan-1996,Documentary|Drama|Horror
+717,Movie 728: Drama Story (1993),01-Jan-1996,Fantasy|Musical|Sci-Fi
+718,Movie 729: Animation Story (1994),01-Jan-1997,Action|Adventure
+719,Movie 730: Animation Story (1990),01-Jan-1994,Action|Comedy|War
+720,Movie 731: Comedy Story (1996),01-Jan-1994,Film-Noir
+721,Movie 732: Comedy Story (1993),01-Jan-1993,Horror
+722,Movie 733: Comedy Story (1997),01-Jan-1990,Comedy|Fantasy|War
+723,Movie 734: Mystery Story (1992),01-Jan-1991,Sci-Fi
+724,Movie 735: Animation Story (1994),01-Jan-1995,Comedy
+725,Movie 736: Horror Story (1994),01-Jan-1994,Horror|Thriller
+726,Movie 737: Mystery Story (1997),01-Jan-1995,Drama|Fantasy|Western
+727,Movie 738: Mystery Story (1993),01-Jan-1994,Mystery
+728,Movie 739: Drama Story (1998),01-Jan-1993,Animation|Horror|Thriller
+729,Movie 740: Thriller Story (1996),01-Jan-1992,Children|Film-Noir
+730,Movie 741: Drama Story (1998),01-Jan-1990,Adventure|Animation|Mystery
+731,Movie 742: Romance Story (1991),01-Jan-1995,Romance|Western
+732,Movie 743: Sci-Fi Story (1996),01-Jan-1991,Action
+733,Movie 744: Romance Story (1998),01-Jan-1996,Film-Noir
+734,Movie 745: Romance Story (1990),01-Jan-1998,Horror
+735,Movie 746: Documentary Story (1994),01-Jan-1998,Comedy|Drama|Horror
+736,Movie 747: Drama Story (1997),01-Jan-1992,Mystery
+737,Movie 748: Animation Story (1997),01-Jan-1997,Animation|Drama|War
+738,Movie 749: Sci-Fi Story (1997),01-Jan-1996,Comedy|Mystery
+739,Movie 750: Animation Story (1995),01-Jan-1992,Animation|Thriller
+740,Movie 751: Horror Story (1998),01-Jan-1990,Horror|Thriller
+741,Movie 752: Sci-Fi Story (1997),01-Jan-1998,Animation|Fantasy
+742,Movie 753: Thriller Story (1993),01-Jan-1996,Comedy|Romance|War
+743,Movie 754: Thriller Story (1996),01-Jan-1997,Documentary|Mystery|Thriller
+744,Movie 755: Action Story (1996),01-Jan-1993,Drama|War|Western
+745,Movie 756: Mystery Story (1995),01-Jan-1991,Horror|Romance
+746,Movie 757: Horror Story (1996),01-Jan-1991,Horror|Thriller
+747,Movie 758: Mystery Story (1992),01-Jan-1991,Musical|Romance|Western
+748,Movie 759: Drama Story (1990),01-Jan-1995,Horror
+749,Movie 760: Documentary Story (1998),01-Jan-1995,Action|Crime|Film-Noir
+750,Movie 761: Comedy Story (1995),01-Jan-1995,Comedy|Sci-Fi|Western
+751,Movie 762: Comedy Story (1997),01-Jan-1990,Documentary
+752,Movie 763: Mystery Story (1998),01-Jan-1995,Animation
+753,Movie 764: Drama Story (1990),01-Jan-1991,Adventure|Comedy|Drama
+754,Movie 765: Drama Story (1996),01-Jan-1994,Horror
+755,Movie 766: Mystery Story (1991),01-Jan-1991,Sci-Fi|Thriller
+756,Movie 767: Sci-Fi Story (1994),01-Jan-1990,Documentary|Western
+757,Movie 768: Comedy Story (1996),01-Jan-1993,Fantasy|Thriller|War
+758,Movie 769: Animation Story (1995),01-Jan-1992,Action|Adventure|Mystery
+759,Movie 770: Sci-Fi Story (1996),01-Jan-1994,Adventure
+760,Movie 771: Animation Story (1997),01-Jan-1994,Fantasy
+761,Movie 772: Documentary Story (1990),01-Jan-1990,Action|Animation
+762,Movie 773: Thriller Story (1991),01-Jan-1996,Children|Fantasy|Musical
+763,Movie 774: Thriller Story (1994),01-Jan-1990,Drama|Mystery
+764,Movie 775: Horror Story (1991),01-Jan-1996,Horror|Thriller
+765,Movie 776: Comedy Story (1991),01-Jan-1998,Children|Horror|Thriller
+766,Movie 777: Drama Story (1997),01-Jan-1998,Crime
+767,Movie 778: Action Story (1994),01-Jan-1993,Action|Adventure|Sci-Fi
+768,Movie 779: Sci-Fi Story (1990),01-Jan-1993,Film-Noir|Horror|Thriller
+769,Movie 780: Romance Story (1990),01-Jan-1996,Action|Crime|Musical
+770,Movie 781: Sci-Fi Story (1995),01-Jan-1995,Drama|Film-Noir
+771,Movie 782: Drama Story (1996),01-Jan-1998,Adventure|Fantasy
+772,Movie 783: Animation Story (1993),01-Jan-1996,Western
+773,Movie 784: Documentary Story (1996),01-Jan-1994,Comedy
+774,Movie 785: Drama Story (1992),01-Jan-1995,Animation|Comedy
+775,Movie 786: Comedy Story (1992),01-Jan-1996,Drama|Romance|Western
+776,Movie 787: Documentary Story (1996),01-Jan-1992,Film-Noir|Horror
+777,Movie 788: Mystery Story (1993),01-Jan-1997,Comedy|Documentary|Western
+778,Movie 789: Thriller Story (1992),01-Jan-1998,Comedy|Documentary|Film-Noir
+779,Movie 790: Romance Story (1997),01-Jan-1998,Romance
+780,Movie 791: Romance Story (1997),01-Jan-1992,Animation|Crime|Horror
+781,Movie 792: Mystery Story (1990),01-Jan-1998,Children|Crime|Horror
+782,Movie 793: Animation Story (1994),01-Jan-1992,Action|Horror|Romance
+783,Movie 794: Comedy Story (1992),01-Jan-1996,Fantasy|Sci-Fi
+784,Movie 795: Sci-Fi Story (1997),01-Jan-1992,Children
+785,Movie 796: Horror Story (1994),01-Jan-1992,Horror|Thriller
+786,Movie 797: Mystery Story (1994),01-Jan-1992,Fantasy
+787,Movie 798: Thriller Story (1994),01-Jan-1993,Action|Drama|Western
+788,Movie 799: Mystery Story (1996),01-Jan-1995,Thriller
+789,Movie 800: Thriller Story (1991),01-Jan-1992,Crime|Musical|Thriller
+790,Movie 801: Documentary Story (1996),01-Jan-1996,Comedy|Thriller
+791,Movie 802: Documentary Story (1995),01-Jan-1992,Drama
+792,Movie 803: Romance Story (1994),01-Jan-1990,Action|Fantasy
+793,Movie 804: Horror Story (1990),01-Jan-1996,Horror|Thriller
+794,Movie 805: Action Story (1994),01-Jan-1993,Animation|Documentary|Western
+795,Movie 806: Documentary Story (1990),01-Jan-1992,Horror|Thriller
+796,Movie 807: Romance Story (1997),01-Jan-1997,Romance
+797,Movie 808: Documentary Story (1993),01-Jan-1996,Mystery
+798,Movie 809: Thriller Story (1995),01-Jan-1995,War|Western
+799,Movie 810: Documentary Story (1993),01-Jan-1990,Children|Sci-Fi|War
+800,Movie 811: Drama Story (1994),01-Jan-1990,War
+801,Movie 812: Action Story (1991),01-Jan-1998,Adventure|Mystery
+802,Movie 813: Mystery Story (1994),01-Jan-1998,Adventure|Documentary|Film-Noir
+803,Movie 814: Documentary Story (1990),01-Jan-1997,Film-Noir|Western
+804,Movie 815: Drama Story (1995),01-Jan-1997,Romance
+805,Movie 816: Romance Story (1991),01-Jan-1994,Adventure|Comedy|War
+806,Movie 817: Horror Story (1995),01-Jan-1997,Horror|Thriller
+807,Movie 818: Thriller Story (1992),01-Jan-1997,War
+808,Movie 819: Animation Story (1992),01-Jan-1991,Western
+809,Movie 820: Animation Story (1995),01-Jan-1992,Horror|Romance
+810,Movie 821: Romance Story (1998),01-Jan-1997,Crime
+811,Movie 822: Romance Story (1992),01-Jan-1997,Animation|Documentary|Sci-Fi
+812,Movie 823: Romance Story (1997),01-Jan-1994,Children|Crime
+813,Movie 824: Comedy Story (1995),01-Jan-1991,Sci-Fi
+814,Movie 825: Comedy Story (1997),01-Jan-1995,War
+815,Movie 826: Thriller Story (1992),01-Jan-1996,Crime|Mystery|War
+816,Movie 827: Animation Story (1996),01-Jan-1998,Adventure|Crime
+817,Movie 828: Comedy Story (1995),01-Jan-1995,Comedy|Crime|Western
+818,Movie 829: Action Story (1996),01-Jan-1992,Adventure|Film-Noir|Romance
+819,Movie 830: Animation Story (1994),01-Jan-1994,Crime|Film-Noir|Sci-Fi
+820,Movie 831: Mystery Story (1991),01-Jan-1991,Documentary
+821,Movie 832: Romance Story (1995),01-Jan-1990,Action|Fantasy|Sci-Fi
+822,Movie 833: Sci-Fi Story (1996),01-Jan-1997,Action|Western
+823,Movie 834: Thriller Story (1991),01-Jan-1997,Documentary
+824,Movie 835: Action Story (1997),01-Jan-1997,Romance|Sci-Fi
+825,Movie 836: Sci-Fi Story (1998),01-Jan-1991,Action|Drama|Fantasy
+826,Movie 837: Comedy Story (1993),01-Jan-1998,Adventure
+827,Movie 838: Romance Story (1997),01-Jan-1992,Adventure
+828,Movie 839: Comedy Story (1996),01-Jan-1995,Comedy
+829,Movie 840: Action Story (1992),01-Jan-1990,Animation|Film-Noir|Horror
+830,Movie 841: Romance Story (1990),01-Jan-1990,Romance
+831,Movie 842: Comedy Story (1997),01-Jan-1992,Film-Noir
+832,Movie 843: Thriller Story (1991),01-Jan-1998,Sci-Fi
+833,Movie 844: Drama Story (1998),01-Jan-1995,Animation
+834,Movie 845: Mystery Story (1996),01-Jan-1994,Musical|Mystery
+835,Movie 846: Animation Story (1995),01-Jan-1991,Animation|Western
+836,Movie 847: Documentary Story (1996),01-Jan-1994,Children|Comedy
+837,Movie 848: Horror Story (1992),01-Jan-1994,Horror|Thriller
+838,Movie 849: Mystery Story (1991),01-Jan-1995,Documentary|Romance|War
+839,Movie 850: Romance Story (1996),01-Jan-1993,Adventure|Animation|Children
+840,Movie 851: Sci-Fi Story (1990),01-Jan-1997,Film-Noir|Horror|Romance
+841,Movie 852: Mystery Story (1993),01-Jan-1994,Comedy|Musical|Thriller
+842,Movie 853: Thriller Story (1997),01-Jan-1998,Crime|Thriller|Western
+843,Movie 854: Comedy Story (1995),01-Jan-1993,Action|Documentary|Film-Noir
+844,Movie 855: Animation Story (1995),01-Jan-1991,Sci-Fi
+845,Movie 856: Action Story (1995),01-Jan-1991,Documentary|Romance|War
+846,Movie 857: Romance Story (1996),01-Jan-1990,Documentary|Musical
+847,Movie 858: Comedy Story (1993),01-Jan-1990,Documentary|Fantasy|Film-Noir
+848,Movie 859: Comedy Story (1997),01-Jan-1991,Film-Noir|War
+849,Movie 860: Documentary Story (1993),01-Jan-1998,Action|Children
+850,Movie 861: Action Story (1990),01-Jan-1995,Action|Mystery
+851,Movie 862: Thriller Story (1995),01-Jan-1992,Horror
+852,Movie 863: Documentary Story (1992),01-Jan-1995,Adventure|Thriller|Western
+853,Movie 864: Comedy Story (1993),01-Jan-1992,Comedy|Sci-Fi
+854,Movie 865: Thriller Story (1998),01-Jan-1998,Romance|Sci-Fi
+855,Movie 866: Thriller Story (1993),01-Jan-1990,Action|Film-Noir|Horror
+856,Movie 867: Drama Story (1995),01-Jan-1993,Animation|Horror|Musical
+857,Movie 868: Romance Story (1990),01-Jan-1992,Action|Horror
+858,Movie 869: Drama Story (1992),01-Jan-1996,Crime|Mystery|Western
+859,Movie 870: Romance Story (1998),01-Jan-1992,Children|Film-Noir|Horror
+860,Movie 871: Comedy Story (1992),01-Jan-1990,Animation|Romance
+861,Movie 872: Drama Story (1990),01-Jan-1997,Musical
+862,Movie 873: Sci-Fi Story (1990),01-Jan-1997,Documentary|War
+863,Movie 874: Documentary Story (1993),01-Jan-1994,Children
+864,Movie 875: Action Story (1995),01-Jan-1995,Documentary
+865,Movie 876: Romance Story (1992),01-Jan-1991,Action|War
+866,Movie 877: Drama Story (1990),01-Jan-1997,Comedy|Documentary|Horror
+867,Movie 878: Animation Story (1996),01-Jan-1997,Film-Noir|Horror|War
+868,Movie 879: Comedy Story (1991),01-Jan-1992,War
+869,Movie 880: Mystery Story (1997),01-Jan-1992,Adventure
+870,Movie 881: Animation Story (1995),01-Jan-1997,Children|War
+871,Movie 882: Mystery Story (1991),01-Jan-1990,Adventure|Animation
+872,Movie 883: Thriller Story (1998),01-Jan-1995,Adventure|Children
+873,Movie 884: Animation Story (1990),01-Jan-1998,Action|Film-Noir|Western
+874,Movie 885: Mystery Story (1994),01-Jan-1993,Documentary|Western
+875,Movie 886: Action Story (1990),01-Jan-1994,Horror|Western
+876,Movie 887: Horror Story (1997),01-Jan-1997,Horror|Thriller
+877,Movie 888: Comedy Story (1996),01-Jan-1991,Comedy|Crime
+878,Movie 889: Mystery Story (1997),01-Jan-1994,Action
+879,Movie 890: Comedy Story (1991),01-Jan-1998,Children|Documentary|Musical
+880,Movie 891: Documentary Story (1995),01-Jan-1998,Comedy|Fantasy
+881,Movie 892: Comedy Story (1992),01-Jan-1994,Animation|Crime|Drama
+882,Movie 893: Romance Story (1992),01-Jan-1994,Adventure|Horror|Sci-Fi
+883,Movie 894: Sci-Fi Story (1998),01-Jan-1992,Thriller
+884,Movie 895: Documentary Story (1996),01-Jan-1990,Mystery
+885,Movie 896: Romance Story (1998),01-Jan-1990,Romance
+886,Movie 897: Animation Story (1997),01-Jan-1996,Sci-Fi
+887,Movie 898: Comedy Story (1996),01-Jan-1995,Documentary|Horror
+888,Movie 899: Animation Story (1991),01-Jan-1998,Sci-Fi
+889,Movie 900: Horror Story (1993),01-Jan-1992,Horror|Thriller
+890,Movie 901: Thriller Story (1997),01-Jan-1991,Children|Sci-Fi|Western
+891,Movie 902: Sci-Fi Story (1996),01-Jan-1994,Drama|Sci-Fi|Thriller
+892,Movie 903: Horror Story (1997),01-Jan-1993,Horror|Thriller
+893,Movie 904: Comedy Story (1996),01-Jan-1992,Fantasy|Musical|Mystery
+894,Movie 905: Horror Story (1995),01-Jan-1992,Horror|Thriller
+895,Movie 906: Romance Story (1995),01-Jan-1995,Sci-Fi|Thriller
+896,Movie 907: Drama Story (1995),01-Jan-1990,Thriller
+897,Movie 908: Comedy Story (1997),01-Jan-1991,Sci-Fi|Thriller
+898,Movie 909: Comedy Story (1991),01-Jan-1992,Comedy|Musical
+899,Movie 910: Horror Story (1991),01-Jan-1998,Horror|Thriller
+900,Movie 911: Sci-Fi Story (1991),01-Jan-1991,Children|Horror
+901,Movie 912: Animation Story (1992),01-Jan-1998,Animation|Film-Noir|Sci-Fi
+902,Movie 913: Documentary Story (1990),01-Jan-1996,Drama|Romance|War
+903,Movie 914: Animation Story (1998),01-Jan-1998,Thriller
+904,Movie 915: Comedy Story (1995),01-Jan-1996,Horror
+905,Movie 916: Sci-Fi Story (1996),01-Jan-1993,Horror|Romance|Western
+906,Movie 917: Action Story (1996),01-Jan-1998,Animation|Crime|Drama
+907,Movie 918: Documentary Story (1994),01-Jan-1997,Sci-Fi
+908,Movie 919: Sci-Fi Story (1994),01-Jan-1995,Children|Crime|Sci-Fi
+909,Movie 920: Documentary Story (1991),01-Jan-1994,Animation|Children
+910,Movie 921: Thriller Story (1998),01-Jan-1996,Adventure|Thriller
+911,Movie 922: Mystery Story (1992),01-Jan-1991,Comedy
+912,Movie 923: Comedy Story (1993),01-Jan-1990,Comedy
+913,Movie 924: Animation Story (1995),01-Jan-1997,Film-Noir|Mystery|Sci-Fi
+914,Movie 925: Comedy Story (1995),01-Jan-1993,Horror
+915,Movie 926: Documentary Story (1994),01-Jan-1994,Film-Noir|Musical|Romance
+916,Movie 927: Horror Story (1993),01-Jan-1991,Horror|Thriller
+917,Movie 928: Documentary Story (1998),01-Jan-1990,Comedy|Mystery|War
+918,Movie 929: Action Story (1998),01-Jan-1994,Musical
+919,Movie 930: Action Story (1994),01-Jan-1998,Action
+920,Movie 931: Romance Story (1992),01-Jan-1998,Children|Film-Noir
+921,Movie 932: Sci-Fi Story (1994),01-Jan-1990,Romance
+922,Movie 933: Action Story (1995),01-Jan-1996,Horror|Mystery|War
+923,Movie 934: Drama Story (1992),01-Jan-1996,Documentary|Western
+924,Movie 935: Comedy Story (1996),01-Jan-1992,Comedy|Documentary
+925,Movie 936: Action Story (1992),01-Jan-1998,Musical|Romance
+926,Movie 937: Animation Story (1991),01-Jan-1992,Comedy|Western
+927,Movie 938: Horror Story (1993),01-Jan-1990,Horror|Thriller
+928,Movie 939: Mystery Story (1996),01-Jan-1991,Action|Comedy|Thriller
+929,Movie 940: Drama Story (1995),01-Jan-1996,Animation
+930,Movie 941: Romance Story (1995),01-Jan-1992,Romance|Sci-Fi|Western
+931,Movie 942: Documentary Story (1995),01-Jan-1992,Romance|War
+932,Movie 943: Action Story (1991),01-Jan-1998,Musical|Mystery
+933,Movie 944: Drama Story (1992),01-Jan-1993,Romance
+934,Movie 945: Comedy Story (1990),01-Jan-1990,Drama|Fantasy|Thriller
+935,Movie 946: Mystery Story (1994),01-Jan-1996,Adventure|Musical|War
+936,Movie 947: Mystery Story (1996),01-Jan-1997,Children|Musical|Thriller
+937,Movie 948: Horror Story (1997),01-Jan-1991,Horror|Thriller
+938,Movie 949: Thriller Story (1994),01-Jan-1992,Fantasy|Sci-Fi|War
+939,Movie 950: Comedy Story (1998),01-Jan-1998,War
+940,Movie 951: Horror Story (1995),01-Jan-1991,Horror|Thriller
+941,Movie 952: Romance Story (1991),01-Jan-1993,Animation|Film-Noir
+942,Movie 953: Animation Story (1997),01-Jan-1990,Action|Western
+943,Movie 954: Action Story (1994),01-Jan-1997,Thriller|War
+944,Movie 955: Horror Story (1993),01-Jan-1995,Horror|Thriller
+945,Movie 956: Action Story (1990),01-Jan-1996,Film-Noir|Western
+946,Movie 957: Romance Story (1993),01-Jan-1992,Film-Noir
+947,Movie 958: Drama Story (1993),01-Jan-1994,Thriller
+948,Movie 959: Romance Story (1994),01-Jan-1992,Action|Adventure|Film-Noir
+949,Movie 960: Comedy Story (1995),01-Jan-1994,Animation|Comedy
+950,Movie 961: Mystery Story (1990),01-Jan-1998,Fantasy
+951,Movie 962: Drama Story (1996),01-Jan-1994,Fantasy
+952,Movie 963: Horror Story (1992),01-Jan-1994,Horror|Thriller
+953,Movie 964: Thriller Story (1998),01-Jan-1994,Children
+954,Movie 965: Animation Story (1998),01-Jan-1992,Comedy|Musical|Sci-Fi
+955,Movie 966: Comedy Story (1995),01-Jan-1992,Drama|Thriller
+956,Movie 967: Action Story (1996),01-Jan-1992,Adventure|Animation|Horror
+957,Movie 968: Action Story (1996),01-Jan-1992,Comedy|Romance|Thriller
+958,Movie 969: Comedy Story (1997),01-Jan-1996,Sci-Fi
+959,Movie 970: Documentary Story (1995),01-Jan-1992,Musical
+960,Movie 971: Documentary Story (1996),01-Jan-1990,Adventure|Children|Fantasy
+961,Movie 972: Horror Story (1996),01-Jan-1992,Horror|Thriller
+962,Movie 973: Comedy Story (1994),01-Jan-1997,Film-Noir|Thriller
+963,Movie 974: Action Story (1996),01-Jan-1997,Drama|Mystery|Western
+964,Movie 975: Drama Story (1995),01-Jan-1996,Comedy|Fantasy
+965,Movie 976: Sci-Fi Story (1997),01-Jan-1998,Action|Film-Noir
+966,Movie 977: Horror Story (1991),01-Jan-1997,Horror|Thriller
+967,Movie 978: Thriller Story (1991),01-Jan-1996,Adventure|Horror|War
+968,Movie 979: Documentary Story (1996),01-Jan-1991,Fantasy|Musical|Romance
+969,Movie 980: Animation Story (1996),01-Jan-1995,Children|Fantasy
+970,Movie 981: Horror Story (1991),01-Jan-1994,Horror|Thriller
+971,Movie 982: Sci-Fi Story (1994),01-Jan-1996,Documentary|Drama
+972,Movie 983: Sci-Fi Story (1993),01-Jan-1998,Crime|Horror
+973,Movie 984: Comedy Story (1992),01-Jan-1998,Action
+974,Movie 985: Comedy Story (1998),01-Jan-1991,Romance
+975,Movie 986: Animation Story (1998),01-Jan-1991,Children|Musical|Sci-Fi
+976,Movie 987: Sci-Fi Story (1993),01-Jan-1993,Documentary|Fantasy|Film-Noir
+977,Movie 988: Drama Story (1995),01-Jan-1990,Animation
+978,Movie 989: Comedy Story (1993),01-Jan-1990,Children|Documentary|War
+979,Movie 990: Romance Story (1992),01-Jan-1991,Comedy|Crime|Mystery
+980,Movie 991: Drama Story (1993),01-Jan-1991,Crime|Fantasy|Film-Noir
+981,Movie 992: Comedy Story (1992),01-Jan-1997,Animation|Fantasy|Sci-Fi
+982,Movie 993: Mystery Story (1992),01-Jan-1996,Crime|Fantasy|Horror
+983,Movie 994: Documentary Story (1997),01-Jan-1991,Adventure|Mystery
+984,Movie 995: Documentary Story (1997),01-Jan-1996,Adventure|Fantasy
+985,Movie 996: Sci-Fi Story (1995),01-Jan-1994,Sci-Fi
+986,Movie 997: Mystery Story (1992),01-Jan-1991,Documentary|Mystery
+987,Movie 998: Mystery Story (1991),01-Jan-1992,Children|Comedy|Thriller
+988,Movie 999: Romance Story (1997),01-Jan-1998,Children|Documentary
+989,Movie 1000: Documentary Story (1994),01-Jan-1997,Adventure|Children|Fantasy
+990,Movie 1001: Sci-Fi Story (1990),01-Jan-1991,Fantasy
+991,Movie 1002: Comedy Story (1998),01-Jan-1997,Thriller
+992,Movie 1003: Mystery Story (1994),01-Jan-1992,Action|Adventure|Mystery
+993,Movie 1004: Action Story (1997),01-Jan-1994,Horror
+994,Movie 1005: Sci-Fi Story (1990),01-Jan-1996,Action|Thriller|War
+995,Movie 1006: Comedy Story (1994),01-Jan-1997,Animation|Mystery
+996,Movie 1007: Documentary Story (1991),01-Jan-1998,Action
+997,Movie 1008: Horror Story (1998),01-Jan-1996,Horror|Thriller
+998,Movie 1009: Documentary Story (1997),01-Jan-1997,Western
+999,Movie 1010: Action Story (1998),01-Jan-1995,Film-Noir|Mystery
+1000,Movie 1011: Documentary Story (1997),01-Jan-1990,Animation|Horror|Musical
+1001,Movie 1012: Sci-Fi Story (1993),01-Jan-1991,Documentary|Film-Noir
+1002,Movie 1013: Animation Story (1997),01-Jan-1992,Adventure|Documentary|Mystery
+1003,Movie 1014: Action Story (1992),01-Jan-1994,Children|Musical|Mystery
+1004,Movie 1015: Comedy Story (1997),01-Jan-1997,Sci-Fi
+1005,Movie 1016: Comedy Story (1995),01-Jan-1993,Adventure
+1006,Movie 1017: Drama Story (1998),01-Jan-1993,Drama
+1007,Movie 1018: Thriller Story (1990),01-Jan-1997,Animation|Film-Noir
+1008,Movie 1019: Mystery Story (1997),01-Jan-1997,Action|Adventure|Sci-Fi
+1009,Movie 1020: Animation Story (1998),01-Jan-1995,Horror
+1010,Movie 1021: Sci-Fi Story (1992),01-Jan-1990,Children|Documentary
+1011,Movie 1022: Romance Story (1995),01-Jan-1998,Comedy|Western
+1012,Movie 1023: Horror Story (1996),01-Jan-1993,Horror|Thriller
+1013,Movie 1024: Documentary Story (1995),01-Jan-1991,Comedy
+1014,Movie 1025: Sci-Fi Story (1990),01-Jan-1997,Action|Adventure|Thriller
+1015,Movie 1026: Sci-Fi Story (1991),01-Jan-1993,Action|Comedy|Crime
+1016,Movie 1027: Animation Story (1991),01-Jan-1990,Children|Sci-Fi
+1017,Movie 1028: Romance Story (1996),01-Jan-1992,Animation|Children|War
+1018,Movie 1029: Documentary Story (1994),01-Jan-1997,Animation|Documentary|Drama
+1019,Movie 1030: Sci-Fi Story (1992),01-Jan-1996,Horror|Mystery
+1020,Movie 1031: Documentary Story (1991),01-Jan-1991,Comedy|Horror|Western
+1021,Movie 1032: Sci-Fi Story (1992),01-Jan-1993,Crime
+1022,Movie 1033: Horror Story (1994),01-Jan-1995,Horror|Thriller
+1023,Movie 1034: Documentary Story (1992),01-Jan-1991,Fantasy
+1024,Movie 1035: Romance Story (1991),01-Jan-1992,Crime|Musical
+1025,Movie 1036: Horror Story (1998),01-Jan-1998,Horror|Thriller
+1026,Movie 1037: Drama Story (1995),01-Jan-1992,Adventure|Drama
+1027,Movie 1038: Comedy Story (1998),01-Jan-1992,Mystery
+1028,Movie 1039: Animation Story (1996),01-Jan-1992,Thriller
+1029,Movie 1040: Action Story (1995),01-Jan-1991,Action
+1030,Movie 1041: Romance Story (1995),01-Jan-1992,Film-Noir
+1031,Movie 1042: Thriller Story (1992),01-Jan-1996,Comedy|Documentary|Thriller
+1032,Movie 1043: Mystery Story (1995),01-Jan-1992,Fantasy|Sci-Fi|War
+1033,Movie 1044: Thriller Story (1993),01-Jan-1996,Crime
+1034,Movie 1045: Drama Story (1992),01-Jan-1990,Animation|Crime|Thriller
+1035,Movie 1046: Romance Story (1991),01-Jan-1994,Action|Romance
+1036,Movie 1047: Animation Story (1991),01-Jan-1998,Documentary
+1037,Movie 1048: Animation Story (1998),01-Jan-1991,Children|Drama|Musical
+1038,Movie 1049: Sci-Fi Story (1990),01-Jan-1997,Adventure|Documentary|Fantasy
+1039,Movie 1050: Documentary Story (1992),01-Jan-1993,Comedy
+1040,Movie 1051: Drama Story (1996),01-Jan-1997,Crime|Western
+1041,Movie 1052: Drama Story (1992),01-Jan-1990,Musical
+1042,Movie 1053: Mystery Story (1992),01-Jan-1994,Romance
+1043,Movie 1054: Horror Story (1990),01-Jan-1994,Horror|Thriller
+1044,Movie 1055: Thriller Story (1995),01-Jan-1995,Adventure|Children|Sci-Fi
+1045,Movie 1056: Documentary Story (1997),01-Jan-1990,Action|Crime|Western
+1046,Movie 1057: Mystery Story (1994),01-Jan-1997,Animation|Children|Drama
+1047,Movie 1058: Animation Story (1993),01-Jan-1997,Documentary|Horror|Romance
+1048,Movie 1059: Romance Story (1993),01-Jan-1995,Children
+1049,Movie 1060: Thriller Story (1997),01-Jan-1995,Children
+1050,Movie 1061: Documentary Story (1995),01-Jan-1993,Documentary|Mystery|Romance
+1051,Movie 1062: Mystery Story (1997),01-Jan-1993,Thriller
+1052,Movie 1063: Horror Story (1994),01-Jan-1997,Horror|Thriller
+1053,Movie 1064: Animation Story (1998),01-Jan-1990,Comedy|Documentary
+1054,Movie 1065: Drama Story (1996),01-Jan-1997,Mystery
+1055,Movie 1066: Documentary Story (1993),01-Jan-1995,Sci-Fi
+1056,Movie 1067: Romance Story (1992),01-Jan-1993,Documentary|Fantasy|Musical
+1057,Movie 1068: Mystery Story (1990),01-Jan-1995,Adventure
+1058,Movie 1069: Animation Story (1995),01-Jan-1990,Children|Comedy
+1059,Movie 1070: Animation Story (1991),01-Jan-1997,Crime|Romance
+1060,Movie 1071: Romance Story (1991),01-Jan-1995,Film-Noir
+1061,Movie 1072: Drama Story (1991),01-Jan-1992,Animation|Crime|Drama
+1062,Movie 1073: Mystery Story (1994),01-Jan-1996,Documentary|Thriller|Western
+1063,Movie 1074: Drama Story (1998),01-Jan-1997,Action|Romance
+1064,Movie 1075: Comedy Story (1996),01-Jan-1993,Horror
+1065,Movie 1076: Mystery Story (1993),01-Jan-1996,Action|Comedy|Drama
+1066,Movie 1077: Action Story (1995),01-Jan-1996,Adventure
+1067,Movie 1078: Action Story (1996),01-Jan-1997,Adventure|Romance|War
+1068,Movie 1079: Animation Story (1996),01-Jan-1998,Children|Thriller
+1069,Movie 1080: Thriller Story (1995),01-Jan-1997,Animation|Drama
+1070,Movie 1081: Comedy Story (1996),01-Jan-1998,Romance
+1071,Movie 1082: Thriller Story (1995),01-Jan-1993,Musical
+1072,Movie 1083: Sci-Fi Story (1990),01-Jan-1994,Animation
+1073,Movie 1084: Sci-Fi Story (1991),01-Jan-1990,Crime|Film-Noir
+1074,Movie 1085: Drama Story (1992),01-Jan-1997,Action|Sci-Fi|War
+1075,Movie 1086: Romance Story (1990),01-Jan-1992,Crime|Musical|Mystery
+1076,Movie 1087: Drama Story (1997),01-Jan-1997,Action|Animation|Mystery
+1077,Movie 1088: Mystery Story (1997),01-Jan-1995,Adventure|Film-Noir|Romance
+1078,Movie 1089: Comedy Story (1990),01-Jan-1994,Animation|Documentary|Western
+1079,Movie 1090: Romance Story (1990),01-Jan-1995,Adventure|Musical|War
+1080,Movie 1091: Drama Story (1993),01-Jan-1990,Mystery
+1081,Movie 1092: Documentary Story (1998),01-Jan-1995,Adventure|Musical
+1082,Movie 1093: Horror Story (1998),01-Jan-1995,Horror|Thriller
+1083,Movie 1094: Romance Story (1991),01-Jan-1992,Animation|Documentary|Western
+1084,Movie 1095: Romance Story (1993),01-Jan-1992,Children|Drama
+1085,Movie 1096: Action Story (1991),01-Jan-1997,Documentary|Drama|Horror
+1086,Movie 1097: Horror Story (1993),01-Jan-1995,Horror|Thriller
+1087,Movie 1098: Comedy Story (1997),01-Jan-1994,Adventure|Fantasy|Romance
+1088,Movie 1099: Mystery Story (1991),01-Jan-1991,Musical|Sci-Fi
+1089,Movie 1100: Action Story (1998),01-Jan-1997,Children|Thriller|War
+1090,Movie 1101: Documentary Story (1998),01-Jan-1998,Film-Noir|Sci-Fi|Western
+1091,Movie 1102: Drama Story (1993),01-Jan-1995,Animation|Documentary|Sci-Fi
+1092,Movie 1103: Horror Story (1994),01-Jan-1991,Horror|Thriller
+1093,Movie 1104: Documentary Story (1990),01-Jan-1991,Crime|Film-Noir
+1094,Movie 1105: Thriller Story (1995),01-Jan-1991,Crime
+1095,Movie 1106: Drama Story (1996),01-Jan-1994,Comedy
+1096,Movie 1107: Animation Story (1991),01-Jan-1997,Documentary
+1097,Movie 1108: Comedy Story (1995),01-Jan-1998,Action|Film-Noir|Romance
+1098,Movie 1109: Animation Story (1998),01-Jan-1998,Thriller
+1099,Movie 1110: Animation Story (1998),01-Jan-1995,Action|Sci-Fi
+1100,Movie 1111: Action Story (1998),01-Jan-1994,Animation
+1101,Movie 1112: Mystery Story (1996),01-Jan-1990,War
+1102,Movie 1113: Horror Story (1990),01-Jan-1995,Horror|Thriller
+1103,Movie 1114: Romance Story (1995),01-Jan-1996,Horror|Thriller|Western
+1104,Movie 1115: Sci-Fi Story (1990),01-Jan-1998,Film-Noir|Sci-Fi|Western
+1105,Movie 1116: Sci-Fi Story (1991),01-Jan-1992,Crime|Fantasy
+1106,Movie 1117: Comedy Story (1993),01-Jan-1993,Film-Noir|Musical
+1107,Movie 1118: Drama Story (1995),01-Jan-1990,Musical
+1108,Movie 1119: Sci-Fi Story (1990),01-Jan-1994,Crime|Western
+1109,Movie 1120: Sci-Fi Story (1998),01-Jan-1998,Crime|Western
+1110,Movie 1121: Mystery Story (1992),01-Jan-1992,Drama
+1111,Movie 1122: Drama Story (1997),01-Jan-1991,Horror
+1112,Movie 1123: Comedy Story (1992),01-Jan-1992,Fantasy|Musical
+1113,Movie 1124: Action Story (1997),01-Jan-1992,Western
+1114,Movie 1125: Thriller Story (1994),01-Jan-1990,Comedy|Horror|Musical
+1115,Movie 1126: Thriller Story (1990),01-Jan-1995,Crime|Western
+1116,Movie 1127: Sci-Fi Story (1990),01-Jan-1998,Action|Children
+1117,Movie 1128: Animation Story (1994),01-Jan-1996,Comedy|Sci-Fi
+1118,Movie 1129: Animation Story (1996),01-Jan-1995,Action
+1119,Movie 1130: Romance Story (1997),01-Jan-1998,Film-Noir|Horror|Thriller
+1120,Movie 1131: Thriller Story (1990),01-Jan-1994,Comedy|Horror|Sci-Fi
+1121,Movie 1132: Sci-Fi Story (1994),01-Jan-1991,Adventure|Comedy|Thriller
+1122,Movie 1133: Sci-Fi Story (1990),01-Jan-1998,Film-Noir
+1123,Movie 1134: Comedy Story (1994),01-Jan-1990,Drama|Sci-Fi
+1124,Movie 1135: Horror Story (1995),01-Jan-1995,Horror|Thriller
+1125,Movie 1136: Mystery Story (1996),01-Jan-1991,Adventure|Documentary
+1126,Movie 1137: Sci-Fi Story (1996),01-Jan-1998,Fantasy
+1127,Movie 1138: Mystery Story (1992),01-Jan-1993,Animation
+1128,Movie 1139: Sci-Fi Story (1997),01-Jan-1998,Animation|War
+1129,Movie 1140: Romance Story (1998),01-Jan-1996,Thriller
+1130,Movie 1141: Horror Story (1991),01-Jan-1995,Horror|Thriller
+1131,Movie 1142: Horror Story (1991),01-Jan-1998,Horror|Thriller
+1132,Movie 1143: Animation Story (1992),01-Jan-1990,Comedy|Musical|Mystery
+1133,Movie 1144: Sci-Fi Story (1994),01-Jan-1996,Musical|Mystery
+1134,Movie 1145: Comedy Story (1991),01-Jan-1990,Musical|Western
+1135,Movie 1146: Romance Story (1995),01-Jan-1994,Animation|Western
+1136,Movie 1147: Mystery Story (1994),01-Jan-1993,Romance|Sci-Fi|Western
+1137,Movie 1148: Drama Story (1996),01-Jan-1994,Romance
+1138,Movie 1149: Sci-Fi Story (1997),01-Jan-1996,Animation
+1139,Movie 1150: Action Story (1997),01-Jan-1992,Film-Noir
+1140,Movie 1151: Documentary Story (1995),01-Jan-1997,Animation|Horror|Mystery
+1141,Movie 1152: Romance Story (1996),01-Jan-1991,Romance
+1142,Movie 1153: Comedy Story (1990),01-Jan-1994,Crime|Sci-Fi
+1143,Movie 1154: Sci-Fi Story (1996),01-Jan-1992,Crime
+1144,Movie 1155: Drama Story (1998),01-Jan-1996,Thriller|Western
+1145,Movie 1156: Drama Story (1990),01-Jan-1990,Film-Noir|Thriller
+1146,Movie 1157: Action Story (1997),01-Jan-1998,Action|Drama|Sci-Fi
+1147,Movie 1158: Comedy Story (1992),01-Jan-1990,Fantasy
+1148,Movie 1159: Sci-Fi Story (1993),01-Jan-1994,Children|Film-Noir|Thriller
+1149,Movie 1160: Horror Story (1995),01-Jan-1996,Horror|Thriller
+1150,Movie 1161: Documentary Story (1990),01-Jan-1992,Action|Drama
+1151,Movie 1162: Mystery Story (1992),01-Jan-1991,Animation|Thriller
+1152,Movie 1163: Sci-Fi Story (1995),01-Jan-1995,Fantasy|Romance|Thriller
+1153,Movie 1164: Comedy Story (1997),01-Jan-1997,Action|Children|Musical
+1154,Movie 1165: Animation Story (1992),01-Jan-1994,Adventure
+1155,Movie 1166: Horror Story (1995),01-Jan-1992,Horror|Thriller
+1156,Movie 1167: Romance Story (1995),01-Jan-1995,Comedy|Musical
+1157,Movie 1168: Comedy Story (1993),01-Jan-1992,Fantasy
+1158,Movie 1169: Drama Story (1990),01-Jan-1995,Adventure|Musical
+1159,Movie 1170: Animation Story (1997),01-Jan-1994,Animation|War
+1160,Movie 1171: Animation Story (1996),01-Jan-1998,Crime
+1161,Movie 1172: Romance Story (1991),01-Jan-1991,Crime|Horror|War
+1162,Movie 1173: Mystery Story (1994),01-Jan-1994,Children|Musical
+1163,Movie 1174: Documentary Story (1993),01-Jan-1998,Action|Comedy|Musical
+1164,Movie 1175: Mystery Story (1994),01-Jan-1992,Film-Noir|Musical|Thriller
+1165,Movie 1176: Comedy Story (1993),01-Jan-1996,Children|Crime
+1166,Movie 1177: Comedy Story (1992),01-Jan-1993,War
+1167,Movie 1178: Drama Story (1997),01-Jan-1993,Western
+1168,Movie 1179: Comedy Story (1997),01-Jan-1998,Children|Romance|Western
+1169,Movie 1180: Sci-Fi Story (1995),01-Jan-1997,Children
+1170,Movie 1181: Animation Story (1991),01-Jan-1992,Thriller
+1171,Movie 1182: Romance Story (1998),01-Jan-1995,Comedy|Musical
+1172,Movie 1183: Drama Story (1994),01-Jan-1997,Crime|Horror|War
+1173,Movie 1184: Sci-Fi Story (1992),01-Jan-1994,Children
+1174,Movie 1185: Thriller Story (1998),01-Jan-1993,Comedy
+1175,Movie 1186: Thriller Story (1991),01-Jan-1993,Comedy|Documentary
+1176,Movie 1187: Thriller Story (1992),01-Jan-1992,Romance
+1177,Movie 1188: Action Story (1997),01-Jan-1991,Action
+1178,Movie 1189: Animation Story (1995),01-Jan-1997,Adventure|Documentary
+1179,Movie 1190: Mystery Story (1995),01-Jan-1991,War
+1180,Movie 1191: Drama Story (1998),01-Jan-1990,Children|Fantasy
+1181,Movie 1192: Comedy Story (1991),01-Jan-1990,Film-Noir
+1182,Movie 1193: Horror Story (1994),01-Jan-1990,Horror|Thriller
+1183,Movie 1194: Animation Story (1997),01-Jan-1991,Documentary
+1184,Movie 1195: Horror Story (1996),01-Jan-1993,Horror|Thriller
+1185,Movie 1196: Drama Story (1991),01-Jan-1992,Action|Animation|Musical
+1186,Movie 1197: Comedy Story (1995),01-Jan-1992,Fantasy|Musical|War
+1187,Movie 1198: Mystery Story (1997),01-Jan-1992,Animation|Drama|War
+1188,Movie 1199: Sci-Fi Story (1998),01-Jan-1991,Action|Documentary|War
+1189,Movie 1200: Animation Story (1992),01-Jan-1993,Action|Crime
+1190,Movie 1201: Drama Story (1992),01-Jan-1991,War
+1191,Movie 1202: Animation Story (1996),01-Jan-1997,Crime|Sci-Fi
+1192,Movie 1203: Comedy Story (1990),01-Jan-1991,Musical
+1193,Movie 1204: Drama Story (1998),01-Jan-1996,Documentary|War
+1194,Movie 1205: Drama Story (1994),01-Jan-1993,Children|Horror
+1195,Movie 1206: Sci-Fi Story (1992),01-Jan-1991,Children|War
+1196,Movie 1207: Sci-Fi Story (1993),01-Jan-1992,Film-Noir|Musical
+1197,Movie 1208: Romance Story (1998),01-Jan-1998,Adventure|Animation|Horror
+1198,Movie 1209: Romance Story (1991),01-Jan-1997,Mystery
+1199,Movie 1210: Animation Story (1993),01-Jan-1994,Film-Noir|Sci-Fi
+1200,Movie 1211: Drama Story (1994),01-Jan-1993,Film-Noir|Romance|Western
+1201,Movie 1212: Documentary Story (1994),01-Jan-1993,Thriller
+1202,Movie 1213: Comedy Story (1998),01-Jan-1995,Action
+1203,Movie 1214: Drama Story (1998),01-Jan-1997,Children|Mystery|Sci-Fi
+1204,Movie 1215: Drama Story (1992),01-Jan-1998,Animation|Children|Comedy
+1205,Movie 1216: Documentary Story (1995),01-Jan-1996,Children|Crime
+1206,Movie 1217: Action Story (1990),01-Jan-1991,Documentary|Horror
+1207,Movie 1218: Action Story (1991),01-Jan-1993,Children|Drama|Mystery
+1208,Movie 1219: Thriller Story (1994),01-Jan-1996,Fantasy|Thriller|War
+1209,Movie 1220: Documentary Story (1996),01-Jan-1996,Mystery|Thriller
+1210,Movie 1221: Mystery Story (1990),01-Jan-1997,Comedy|Fantasy|Sci-Fi
+1211,Movie 1222: Romance Story (1998),01-Jan-1991,Fantasy
+1212,Movie 1223: Mystery Story (1994),01-Jan-1997,Comedy|Drama
+1213,Movie 1224: Horror Story (1993),01-Jan-1990,Horror|Thriller
+1214,Movie 1225: Mystery Story (1994),01-Jan-1991,Adventure|Animation|Thriller
+1215,Movie 1226: Action Story (1991),01-Jan-1990,Mystery
+1216,Movie 1227: Mystery Story (1992),01-Jan-1995,Film-Noir
+1217,Movie 1228: Mystery Story (1996),01-Jan-1991,War
+1218,Movie 1229: Thriller Story (1997),01-Jan-1997,Documentary|Film-Noir
+1219,Movie 1230: Documentary Story (1995),01-Jan-1997,Fantasy|War
+1220,Movie 1231: Sci-Fi Story (1992),01-Jan-1998,Action|Western
+1221,Movie 1232: Sci-Fi Story (1995),01-Jan-1990,Children|Mystery
+1222,Movie 1233: Drama Story (1996),01-Jan-1997,Mystery|Sci-Fi
+1223,Movie 1234: Animation Story (1995),01-Jan-1997,Adventure
+1224,Movie 1235: Comedy Story (1998),01-Jan-1992,Crime|Film-Noir|Thriller
+1225,Movie 1236: Thriller Story (1995),01-Jan-1996,Film-Noir
+1226,Movie 1237: Comedy Story (1997),01-Jan-1996,Children|Thriller
+1227,Movie 1238: Mystery Story (1994),01-Jan-1998,Thriller|War|Western
+1228,Movie 1239: Drama Story (1993),01-Jan-1998,War
+1229,Movie 1240: Action Story (1991),01-Jan-1990,Fantasy|Thriller
+1230,Movie 1241: Horror Story (1994),01-Jan-1996,Horror|Thriller
+1231,Movie 1242: Thriller Story (1996),01-Jan-1995,Adventure|Horror
+1232,Movie 1243: Sci-Fi Story (1992),01-Jan-1990,Adventure|Comedy|Musical
+1233,Movie 1244: Thriller Story (1995),01-Jan-1995,Action|Horror|Mystery
+1234,Movie 1245: Mystery Story (1992),01-Jan-1991,Musical|Western
+1235,Movie 1246: Mystery Story (1998),01-Jan-1996,Adventure|Drama
+1236,Movie 1247: Romance Story (1997),01-Jan-1993,Film-Noir
+1237,Movie 1248: Action Story (1997),01-Jan-1991,Animation|Children|Film-Noir
+1238,Movie 1249: Horror Story (1991),01-Jan-1995,Horror|Thriller
+1239,Movie 1250: Mystery Story (1998),01-Jan-1992,Western
+1240,Movie 1251: Thriller Story (1993),01-Jan-1995,Sci-Fi
+1241,Movie 1252: Action Story (1995),01-Jan-1996,Fantasy|Romance|War
+1242,Movie 1253: Romance Story (1990),01-Jan-1990,Action|Horror|Thriller
+1243,Movie 1254: Documentary Story (1997),01-Jan-1996,Children|Horror|Mystery
+1244,Movie 1255: Romance Story (1997),01-Jan-1997,Documentary
+1245,Movie 1256: Action Story (1998),01-Jan-1995,Horror|War
+1246,Movie 1257: Horror Story (1991),01-Jan-1992,Horror|Thriller
+1247,Movie 1258: Romance Story (1992),01-Jan-1994,Documentary|Romance
+1248,Movie 1259: Horror Story (1995),01-Jan-1997,Horror|Thriller
+1249,Movie 1260: Action Story (1995),01-Jan-1991,Documentary|Fantasy|Film-Noir
+1250,Movie 1261: Action Story (1996),01-Jan-1990,Drama|Mystery
+1251,Movie 1262: Thriller Story (1998),01-Jan-1991,Children|Fantasy|Horror
+1252,Movie 1263: Animation Story (1995),01-Jan-1991,Romance|Thriller|War
+1253,Movie 1264: Comedy Story (1994),01-Jan-1993,Animation|Film-Noir
+1254,Movie 1265: Animation Story (1996),01-Jan-1998,Horror|Romance
+1255,Movie 1266: Animation Story (1997),01-Jan-1993,Fantasy|Mystery
+1256,Movie 1267: Documentary Story (1994),01-Jan-1998,Crime|Western
+1257,Movie 1268: Drama Story (1991),01-Jan-1990,Crime|Thriller|War
+1258,Movie 1269: Horror Story (1991),01-Jan-1993,Horror|Thriller
+1259,Movie 1270: Sci-Fi Story (1995),01-Jan-1997,Romance|Western
+1260,Movie 1271: Sci-Fi Story (1998),01-Jan-1990,Documentary|Musical|Sci-Fi
+1261,Movie 1272: Thriller Story (1992),01-Jan-1992,Comedy
+1262,Movie 1273: Horror Story (1998),01-Jan-1994,Horror|Thriller
+1263,Movie 1274: Action Story (1998),01-Jan-1996,Animation|Horror
+1264,Movie 1275: Action Story (1990),01-Jan-1993,Fantasy|Film-Noir
+1265,Movie 1276: Sci-Fi Story (1992),01-Jan-1992,Drama|Mystery
+1266,Movie 1277: Animation Story (1997),01-Jan-1993,Comedy
+1267,Movie 1278: Drama Story (1997),01-Jan-1993,Drama
+1268,Movie 1279: Drama Story (1998),01-Jan-1994,Romance|Thriller
+1269,Movie 1280: Documentary Story (1995),01-Jan-1996,Adventure|Crime|Documentary
+1270,Movie 1281: Drama Story (1995),01-Jan-1994,Action
+1271,Movie 1282: Documentary Story (1996),01-Jan-1994,Crime|Western
+1272,Movie 1283: Documentary Story (1994),01-Jan-1990,Action|Adventure|Thriller
+1273,Movie 1284: Animation Story (1995),01-Jan-1991,Animation|Film-Noir
+1274,Movie 1285: Animation Story (1998),01-Jan-1996,Animation|Mystery
+1275,Movie 1286: Documentary Story (1997),01-Jan-1992,Children
+1276,Movie 1287: Mystery Story (1994),01-Jan-1998,War
+1277,Movie 1288: Sci-Fi Story (1990),01-Jan-1998,Animation|Thriller
+1278,Movie 1289: Comedy Story (1995),01-Jan-1993,Children|Horror|War
+1279,Movie 1290: Documentary Story (1996),01-Jan-1996,Documentary|Drama|Romance
+1280,Movie 1291: Action Story (1994),01-Jan-1992,Crime
+1281,Movie 1292: Romance Story (1997),01-Jan-1993,Romance|Sci-Fi
+1282,Movie 1293: Action Story (1993),01-Jan-1994,Adventure|Musical|Thriller
+1283,Movie 1294: Drama Story (1997),01-Jan-1991,Romance|Western
+1284,Movie 1295: Documentary Story (1998),01-Jan-1997,Comedy|Drama|Fantasy
+1285,Movie 1296: Drama Story (1996),01-Jan-1995,Film-Noir|Musical
+1286,Movie 1297: Action Story (1993),01-Jan-1990,Adventure|Drama|Western
+1287,Movie 1298: Thriller Story (1991),01-Jan-1994,Film-Noir|Musical|Mystery
+1288,Movie 1299: Mystery Story (1990),01-Jan-1991,Drama|Mystery|Sci-Fi
+1289,Movie 1300: Horror Story (1995),01-Jan-1990,Horror|Thriller
+1290,Movie 1301: Horror Story (1992),01-Jan-1996,Horror|Thriller
+1291,Movie 1302: Horror Story (1993),01-Jan-1994,Horror|Thriller
+1292,Movie 1303: Documentary Story (1998),01-Jan-1994,Drama
+1293,Movie 1304: Action Story (1997),01-Jan-1994,Crime
+1294,Movie 1305: Animation Story (1992),01-Jan-1997,Adventure|Horror|Romance
+1295,Movie 1306: Animation Story (1993),01-Jan-1994,Thriller
+1296,Movie 1307: Mystery Story (1995),01-Jan-1997,Horror|Romance|Western
+1297,Movie 1308: Horror Story (1998),01-Jan-1991,Horror|Thriller
+1298,Movie 1309: Drama Story (1995),01-Jan-1992,Animation|Fantasy|War
+1299,Movie 1310: Animation Story (1997),01-Jan-1995,Horror|Western
+1300,Movie 1311: Animation Story (1995),01-Jan-1997,Action|Adventure|Crime
+1301,Movie 1312: Romance Story (1995),01-Jan-1997,Action|Comedy|Mystery
+1302,Movie 1313: Thriller Story (1997),01-Jan-1993,Animation|Film-Noir|Horror
+1303,Movie 1314: Romance Story (1993),01-Jan-1991,Drama
+1304,Movie 1315: Romance Story (1998),01-Jan-1998,Comedy|Horror|Romance
+1305,Movie 1316: Romance Story (1993),01-Jan-1997,Comedy|Fantasy
+1306,Movie 1317: Thriller Story (1994),01-Jan-1992,Documentary|Film-Noir|Horror
+1307,Movie 1318: Sci-Fi Story (1997),01-Jan-1991,Crime|Musical
+1308,Movie 1319: Sci-Fi Story (1997),01-Jan-1996,Action|Drama
+1309,Movie 1320: Romance Story (1998),01-Jan-1990,Animation|Drama|Sci-Fi
+1310,Movie 1321: Comedy Story (1994),01-Jan-1993,Adventure|Crime
+1311,Movie 1322: Horror Story (1998),01-Jan-1996,Horror|Thriller
+1312,Movie 1323: Sci-Fi Story (1996),01-Jan-1996,Animation|Comedy|Fantasy
+1313,Movie 1324: Romance Story (1992),01-Jan-1995,Children
+1314,Movie 1325: Romance Story (1990),01-Jan-1990,Romance|Sci-Fi|War
+1315,Movie 1326: Sci-Fi Story (1991),01-Jan-1997,Drama
+1316,Movie 1327: Romance Story (1997),01-Jan-1993,Fantasy
+1317,Movie 1328: Thriller Story (1997),01-Jan-1994,Comedy|Mystery|Thriller
+1318,Movie 1329: Animation Story (1993),01-Jan-1996,Documentary
+1319,Movie 1330: Animation Story (1994),01-Jan-1994,Crime|Documentary|Romance
+1320,Movie 1331: Drama Story (1994),01-Jan-1996,Action
+1321,Movie 1332: Documentary Story (1991),01-Jan-1994,Drama|Sci-Fi
+1322,Movie 1333: Thriller Story (1993),01-Jan-1993,Animation|Sci-Fi
+1323,Movie 1334: Animation Story (1990),01-Jan-1990,Comedy|Horror
+1324,Movie 1335: Thriller Story (1993),01-Jan-1996,Documentary|Mystery|Romance
+1325,Movie 1336: Comedy Story (1990),01-Jan-1994,Children
+1326,Movie 1337: Sci-Fi Story (1996),01-Jan-1998,Adventure
+1327,Movie 1338: Comedy Story (1997),01-Jan-1995,Thriller
+1328,Movie 1339: Action Story (1992),01-Jan-1995,Action|Adventure|Fantasy
+1329,Movie 1340: Drama Story (1998),01-Jan-1998,Film-Noir|Mystery|Western
+1330,Movie 1341: Mystery Story (1996),01-Jan-1995,Western
+1331,Movie 1342: Thriller Story (1997),01-Jan-1990,Crime|Fantasy|Western
+1332,Movie 1343: Sci-Fi Story (1994),01-Jan-1998,Horror|Sci-Fi
+1333,Movie 1344: Action Story (1994),01-Jan-1992,Horror
+1334,Movie 1345: Documentary Story (1991),01-Jan-1998,Comedy|Fantasy
+1335,Movie 1346: Animation Story (1993),01-Jan-1991,Adventure|Comedy
+1336,Movie 1347: Drama Story (1990),01-Jan-1997,Musical|Romance
+1337,Movie 1348: Drama Story (1996),01-Jan-1994,Fantasy|War
+1338,Movie 1349: Horror Story (1990),01-Jan-1995,Horror|Thriller
+1339,Movie 1350: Drama Story (1997),01-Jan-1996,Horror
+1340,Movie 1351: Action Story (1994),01-Jan-1997,Western
+1341,Movie 1352: Romance Story (1990),01-Jan-1997,Documentary
+1342,Movie 1353: Sci-Fi Story (1991),01-Jan-1992,Drama
+1343,Movie 1354: Mystery Story (1994),01-Jan-1992,Thriller
+1344,Movie 1355: Animation Story (1998),01-Jan-1994,Sci-Fi
+1345,Movie 1356: Drama Story (1997),01-Jan-1996,Thriller
+1346,Movie 1357: Mystery Story (1998),01-Jan-1990,Musical|Thriller
+1347,Movie 1358: Thriller Story (1994),01-Jan-1997,Children|Comedy
+1348,Movie 1359: Sci-Fi Story (1991),01-Jan-1991,Animation|Documentary
+1349,Movie 1360: Mystery Story (1992),01-Jan-1994,Crime
+1350,Movie 1361: Drama Story (1994),01-Jan-1998,Action|Documentary
+1351,Movie 1362: Sci-Fi Story (1990),01-Jan-1998,Animation|Crime|Romance
+1352,Movie 1363: Documentary Story (1994),01-Jan-1993,Children|Horror
+1353,Movie 1364: Drama Story (1993),01-Jan-1990,Children|Mystery
+1354,Movie 1365: Horror Story (1996),01-Jan-1995,Horror|Thriller
+1355,Movie 1366: Sci-Fi Story (1998),01-Jan-1991,Action|Comedy
+1356,Movie 1367: Horror Story (1991),01-Jan-1991,Horror|Thriller
+1357,Movie 1368: Drama Story (1991),01-Jan-1997,Fantasy|Sci-Fi|Thriller
+1358,Movie 1369: Mystery Story (1992),01-Jan-1990,Adventure|Sci-Fi
+1359,Movie 1370: Thriller Story (1995),01-Jan-1995,Adventure|Comedy|Documentary
+1360,Movie 1371: Romance Story (1990),01-Jan-1994,Adventure|Animation
+1361,Movie 1372: Thriller Story (1996),01-Jan-1998,Animation|Mystery|Western
+1362,Movie 1373: Romance Story (1997),01-Jan-1994,Drama
+1363,Movie 1374: Romance Story (1995),01-Jan-1996,Action
+1364,Movie 1375: Romance Story (1990),01-Jan-1993,Mystery
+1365,Movie 1376: Thriller Story (1995),01-Jan-1996,Children|Comedy
+1366,Movie 1377: Comedy Story (1990),01-Jan-1994,Film-Noir|Romance
+1367,Movie 1378: Romance Story (1997),01-Jan-1992,Children|Musical
+1368,Movie 1379: Horror Story (1992),01-Jan-1998,Horror|Thriller
+1369,Movie 1380: Romance Story (1998),01-Jan-1993,Mystery|Sci-Fi
+1370,Movie 1381: Romance Story (1991),01-Jan-1997,Animation|Romance
+1371,Movie 1382: Documentary Story (1995),01-Jan-1996,Crime|Romance
+1372,Movie 1383: Thriller Story (1993),01-Jan-1996,Adventure
+1373,Movie 1384: Mystery Story (1992),01-Jan-1998,Drama|Sci-Fi
+1374,Movie 1385: Mystery Story (1992),01-Jan-1992,War|Western
+1375,Movie 1386: Horror Story (1995),01-Jan-1991,Horror|Thriller
+1376,Movie 1387: Mystery Story (1998),01-Jan-1994,Animation|Romance
+1377,Movie 1388: Thriller Story (1998),01-Jan-1997,Comedy|Western
+1378,Movie 1389: Documentary Story (1993),01-Jan-1994,War
+1379,Movie 1390: Animation Story (1991),01-Jan-1996,Adventure|Animation
+1380,Movie 1391: Animation Story (1997),01-Jan-1990,Children|Romance|War
+1381,Movie 1392: Comedy Story (1995),01-Jan-1996,Sci-Fi
+1382,Movie 1393: Action Story (1991),01-Jan-1994,Animation|Fantasy
+1383,Movie 1394: Animation Story (1998),01-Jan-1998,Children
+1384,Movie 1395: Documentary Story (1993),01-Jan-1997,Crime
+1385,Movie 1396: Drama Story (1998),01-Jan-1996,Animation
+1386,Movie 1397: Sci-Fi Story (1992),01-Jan-1996,Film-Noir|Horror|Sci-Fi
+1387,Movie 1398: Mystery Story (1998),01-Jan-1997,Crime|Fantasy|Horror
+1388,Movie 1399: Thriller Story (1991),01-Jan-1993,Animation
+1389,Movie 1400: Comedy Story (1997),01-Jan-1994,Action|Children|Romance
+1390,Movie 1401: Mystery Story (1998),01-Jan-1990,Action|Children
+1391,Movie 1402: Mystery Story (1990),01-Jan-1992,Mystery|Sci-Fi|Thriller
+1392,Movie 1403: Animation Story (1992),01-Jan-1997,Musical|Mystery
+1393,Movie 1404: Mystery Story (1996),01-Jan-1994,Comedy
+1394,Movie 1405: Animation Story (1990),01-Jan-1992,Documentary
+1395,Movie 1406: Romance Story (1997),01-Jan-1991,Documentary
+1396,Movie 1407: Horror Story (1990),01-Jan-1990,Horror|Thriller
+1397,Movie 1408: Action Story (1994),01-Jan-1993,Comedy|Drama
+1398,Movie 1409: Documentary Story (1993),01-Jan-1996,Animation|Documentary|Western
+1399,Movie 1410: Action Story (1991),01-Jan-1994,Comedy|Thriller
+1400,Movie 1411: Sci-Fi Story (1996),01-Jan-1996,Children
+1401,Movie 1412: Animation Story (1991),01-Jan-1992,Sci-Fi
+1402,Movie 1413: Comedy Story (1990),01-Jan-1997,Action|Sci-Fi
+1403,Movie 1414: Action Story (1997),01-Jan-1993,Film-Noir
+1404,Movie 1415: Horror Story (1994),01-Jan-1996,Horror|Thriller
+1405,Movie 1416: Drama Story (1992),01-Jan-1990,Action|Children
+1406,Movie 1417: Sci-Fi Story (1996),01-Jan-1996,Film-Noir|Thriller
+1407,Movie 1418: Mystery Story (1996),01-Jan-1990,Mystery|Thriller
+1408,Movie 1419: Horror Story (1996),01-Jan-1998,Horror|Thriller
+1409,Movie 1420: Animation Story (1991),01-Jan-1997,Adventure
+1410,Movie 1421: Sci-Fi Story (1992),01-Jan-1998,Romance
+1411,Movie 1422: Drama Story (1991),01-Jan-1995,Animation|Fantasy|Romance
+1412,Movie 1423: Horror Story (1998),01-Jan-1997,Horror|Thriller
+1413,Movie 1424: Drama Story (1998),01-Jan-1991,Musical|Sci-Fi
+1414,Movie 1425: Action Story (1993),01-Jan-1996,Crime
+1415,Movie 1426: Romance Story (1990),01-Jan-1994,Documentary|Musical|Thriller
+1416,Movie 1427: Animation Story (1997),01-Jan-1997,War
+1417,Movie 1428: Animation Story (1996),01-Jan-1993,Comedy|Horror|Sci-Fi
+1418,Movie 1429: Thriller Story (1996),01-Jan-1994,Musical|Mystery|Romance
+1419,Movie 1430: Mystery Story (1993),01-Jan-1997,Documentary
+1420,Movie 1431: Drama Story (1995),01-Jan-1994,Animation|Comedy|Thriller
+1421,Movie 1432: Thriller Story (1994),01-Jan-1992,Crime
+1422,Movie 1433: Action Story (1991),01-Jan-1997,Romance
+1423,Movie 1434: Documentary Story (1996),01-Jan-1997,Documentary|Drama
+1424,Movie 1435: Thriller Story (1990),01-Jan-1998,Action
+1425,Movie 1436: Comedy Story (1993),01-Jan-1995,Crime|Musical
+1426,Movie 1437: Documentary Story (1991),01-Jan-1992,Adventure|Animation|Horror
+1427,Movie 1438: Mystery Story (1990),01-Jan-1996,Drama
+1428,Movie 1439: Thriller Story (1990),01-Jan-1991,Drama|Fantasy|Thriller
+1429,Movie 1440: Horror Story (1990),01-Jan-1995,Horror|Thriller
+1430,Movie 1441: Thriller Story (1997),01-Jan-1995,Western
+1431,Movie 1442: Thriller Story (1998),01-Jan-1994,War
+1432,Movie 1443: Drama Story (1990),01-Jan-1991,Adventure|Sci-Fi|War
+1433,Movie 1444: Romance Story (1998),01-Jan-1991,Children
+1434,Movie 1445: Documentary Story (1993),01-Jan-1998,War
+1435,Movie 1446: Documentary Story (1995),01-Jan-1991,Children
+1436,Movie 1447: Thriller Story (1995),01-Jan-1993,Crime|Film-Noir
+1437,Movie 1448: Drama Story (1994),01-Jan-1997,Children|Comedy|Thriller
+1438,Movie 1449: Thriller Story (1998),01-Jan-1995,Children|Comedy
+1439,Movie 1450: Romance Story (1996),01-Jan-1993,Action|Romance
+1440,Movie 1451: Action Story (1994),01-Jan-1993,Film-Noir|Horror
+1441,Movie 1452: Documentary Story (1998),01-Jan-1998,Animation
+1442,Movie 1453: Horror Story (1992),01-Jan-1994,Horror|Thriller
+1443,Movie 1454: Mystery Story (1998),01-Jan-1995,Drama|Musical|Romance
+1444,Movie 1455: Sci-Fi Story (1990),01-Jan-1992,Comedy|Drama|Romance
+1445,Movie 1456: Animation Story (1996),01-Jan-1996,Romance|Sci-Fi
+1446,Movie 1457: Horror Story (1995),01-Jan-1998,Horror|Thriller
+1447,Movie 1458: Drama Story (1996),01-Jan-1995,Sci-Fi
+1448,Movie 1459: Horror Story (1994),01-Jan-1992,Horror|Thriller
+1449,Movie 1460: Animation Story (1992),01-Jan-1990,Animation|War|Western
+1450,Movie 1461: Thriller Story (1997),01-Jan-1995,Crime|Mystery
+1451,Movie 1462: Romance Story (1993),01-Jan-1996,Mystery
+1452,Movie 1463: Mystery Story (1992),01-Jan-1990,Adventure|Comedy|Film-Noir
+1453,Movie 1464: Animation Story (1990),01-Jan-1996,Film-Noir|Western
+1454,Movie 1465: Horror Story (1996),01-Jan-1995,Horror|Thriller
+1455,Movie 1466: Animation Story (1998),01-Jan-1995,Fantasy
+1456,Movie 1467: Horror Story (1992),01-Jan-1998,Horror|Thriller
+1457,Movie 1468: Romance Story (1993),01-Jan-1992,Documentary|Mystery|Sci-Fi
+1458,Movie 1469: Sci-Fi Story (1993),01-Jan-1998,Musical|Mystery|Sci-Fi
+1459,Movie 1470: Mystery Story (1991),01-Jan-1993,Adventure|Animation
+1460,Movie 1471: Comedy Story (1995),01-Jan-1998,Comedy|Mystery
+1461,Movie 1472: Thriller Story (1998),01-Jan-1998,Animation|Documentary|Film-Noir
+1462,Movie 1473: Romance Story (1990),01-Jan-1998,Film-Noir|Horror|War
+1463,Movie 1474: Documentary Story (1996),01-Jan-1992,Action
+1464,Movie 1475: Comedy Story (1990),01-Jan-1998,Drama|Fantasy|Film-Noir
+1465,Movie 1476: Documentary Story (1993),01-Jan-1996,Adventure|Children|Musical
+1466,Movie 1477: Thriller Story (1998),01-Jan-1994,Children|Musical|War
+1467,Movie 1478: Thriller Story (1997),01-Jan-1990,Children|Film-Noir|Sci-Fi
+1468,Movie 1479: Romance Story (1995),01-Jan-1990,Drama|Horror
+1469,Movie 1480: Thriller Story (1990),01-Jan-1998,Drama|Film-Noir|Musical
+1470,Movie 1481: Comedy Story (1993),01-Jan-1994,Comedy|Drama|Mystery
+1471,Movie 1482: Thriller Story (1997),01-Jan-1991,Documentary|War
+1472,Movie 1483: Horror Story (1993),01-Jan-1995,Horror|Thriller
+1473,Movie 1484: Animation Story (1993),01-Jan-1997,Comedy
+1474,Movie 1485: Romance Story (1995),01-Jan-1996,Animation|Western
+1475,Movie 1486: Mystery Story (1996),01-Jan-1990,Comedy|Thriller
+1476,Movie 1487: Sci-Fi Story (1998),01-Jan-1993,Animation|Musical
+1477,Movie 1488: Romance Story (1994),01-Jan-1998,War|Western
+1478,Movie 1489: Animation Story (1995),01-Jan-1996,Romance|Thriller
+1479,Movie 1490: Mystery Story (1997),01-Jan-1997,Crime|Romance|Thriller
+1480,Movie 1491: Mystery Story (1991),01-Jan-1992,Comedy|Sci-Fi|Thriller
+1481,Movie 1492: Thriller Story (1995),01-Jan-1992,Children|War|Western
+1482,Movie 1493: Sci-Fi Story (1995),01-Jan-1993,Adventure|Thriller
+1483,Movie 1494: Action Story (1996),01-Jan-1992,Children|Musical|Romance
+1484,Movie 1495: Drama Story (1993),01-Jan-1991,Musical
+1485,Movie 1496: Romance Story (1990),01-Jan-1994,War
+1486,Movie 1497: Documentary Story (1998),01-Jan-1992,Musical
+1487,Movie 1498: Romance Story (1996),01-Jan-1994,Film-Noir|Western
+1488,Movie 1499: Thriller Story (1992),01-Jan-1997,Comedy
+1489,Movie 1500: Thriller Story (1995),01-Jan-1992,Adventure|Film-Noir|Romance
+1490,Movie 1501: Documentary Story (1996),01-Jan-1994,Crime
+1491,Movie 1502: Mystery Story (1993),01-Jan-1997,Children
+1492,Movie 1503: Sci-Fi Story (1998),01-Jan-1998,Adventure|Animation
+1493,Movie 1504: Mystery Story (1994),01-Jan-1996,Film-Noir|Sci-Fi
+1494,Movie 1505: Mystery Story (1997),01-Jan-1995,Comedy|Thriller
+1495,Movie 1506: Sci-Fi Story (1992),01-Jan-1992,Sci-Fi|War|Western
+1496,Movie 1507: Drama Story (1992),01-Jan-1992,Animation|Horror|Romance
+1497,Movie 1508: Mystery Story (1998),01-Jan-1996,Mystery
+1498,Movie 1509: Animation Story (1992),01-Jan-1995,Adventure|Fantasy|Sci-Fi
+1499,Movie 1510: Animation Story (1990),01-Jan-1991,Action
+1500,Movie 1511: Comedy Story (1990),01-Jan-1994,Animation|Children|Documentary
+1501,Movie 1512: Action Story (1990),01-Jan-1998,Adventure|Documentary|War
+1502,Movie 1513: Drama Story (1996),01-Jan-1997,Action|Children|Crime
+1503,Movie 1514: Comedy Story (1993),01-Jan-1990,Documentary|Drama
+1504,Movie 1515: Action Story (1992),01-Jan-1997,Western
+1505,Movie 1516: Animation Story (1993),01-Jan-1995,Adventure|Thriller
+1506,Movie 1517: Sci-Fi Story (1997),01-Jan-1990,Crime|Romance
+1507,Movie 1518: Documentary Story (1990),01-Jan-1996,War
+1508,Movie 1519: Mystery Story (1997),01-Jan-1995,Animation|Fantasy
+1509,Movie 1520: Action Story (1990),01-Jan-1991,Western
+1510,Movie 1521: Animation Story (1998),01-Jan-1992,Comedy|Crime
+1511,Movie 1522: Action Story (1996),01-Jan-1994,Comedy
+1512,Movie 1523: Animation Story (1990),01-Jan-1994,Adventure|Crime
+1513,Movie 1524: Animation Story (1994),01-Jan-1995,Action
+1514,Movie 1525: Action Story (1994),01-Jan-1990,Children|Mystery
+1515,Movie 1526: Horror Story (1998),01-Jan-1995,Horror|Thriller
+1516,Movie 1527: Comedy Story (1992),01-Jan-1992,Fantasy|Horror
+1517,Movie 1528: Animation Story (1991),01-Jan-1996,Adventure
+1518,Movie 1529: Thriller Story (1992),01-Jan-1993,Drama
+1519,Movie 1530: Documentary Story (1993),01-Jan-1997,Children|Mystery|War
+1520,Movie 1531: Romance Story (1998),01-Jan-1994,Horror
+1521,Movie 1532: Romance Story (1995),01-Jan-1997,Animation|Romance|Thriller
+1522,Movie 1533: Comedy Story (1996),01-Jan-1990,Action|Drama
+1523,Movie 1534: Horror Story (1995),01-Jan-1994,Horror|Thriller
+1524,Movie 1535: Documentary Story (1997),01-Jan-1998,Children|Comedy|Drama
+1525,Movie 1536: Thriller Story (1993),01-Jan-1994,Animation|Romance|Sci-Fi
+1526,Movie 1537: Comedy Story (1994),01-Jan-1998,Comedy
+1527,Movie 1538: Comedy Story (1990),01-Jan-1995,Crime|Drama|Romance
+1528,Movie 1539: Horror Story (1996),01-Jan-1998,Horror|Thriller
+1529,Movie 1540: Animation Story (1996),01-Jan-1997,Action
+1530,Movie 1541: Action Story (1997),01-Jan-1997,Action|Crime|Film-Noir
+1531,Movie 1542: Drama Story (1990),01-Jan-1990,Fantasy|Western
+1532,Movie 1543: Mystery Story (1991),01-Jan-1996,Documentary|War
+1533,Movie 1544: Sci-Fi Story (1996),01-Jan-1994,Crime
+1534,Movie 1545: Animation Story (1991),01-Jan-1998,Animation|Film-Noir|Western
+1535,Movie 1546: Thriller Story (1990),01-Jan-1996,Children|Comedy|Fantasy
+1536,Movie 1547: Documentary Story (1993),01-Jan-1996,War
+1537,Movie 1548: Romance Story (1997),01-Jan-1995,Fantasy|Horror|Sci-Fi
+1538,Movie 1549: Comedy Story (1990),01-Jan-1994,Horror
+1539,Movie 1550: Animation Story (1994),01-Jan-1995,Sci-Fi
+1540,Movie 1551: Drama Story (1990),01-Jan-1995,Comedy
+1541,Movie 1552: Action Story (1995),01-Jan-1990,Action|Thriller|War
+1542,Movie 1553: Documentary Story (1993),01-Jan-1992,Thriller|Western
+1543,Movie 1554: Horror Story (1992),01-Jan-1996,Horror|Thriller
+1544,Movie 1555: Romance Story (1991),01-Jan-1998,Animation
+1545,Movie 1556: Documentary Story (1992),01-Jan-1998,Sci-Fi
+1546,Movie 1557: Documentary Story (1993),01-Jan-1991,Musical|Mystery
+1547,Movie 1558: Animation Story (1996),01-Jan-1996,Action
+1548,Movie 1559: Horror Story (1995),01-Jan-1991,Horror|Thriller
+1549,Movie 1560: Comedy Story (1992),01-Jan-1997,Documentary|Sci-Fi
+1550,Movie 1561: Sci-Fi Story (1998),01-Jan-1990,Action
+1551,Movie 1562: Comedy Story (1990),01-Jan-1994,Animation|Documentary|Musical
+1552,Movie 1563: Thriller Story (1996),01-Jan-1994,Drama|Thriller|Western
+1553,Movie 1564: Sci-Fi Story (1991),01-Jan-1995,Fantasy
+1554,Movie 1565: Sci-Fi Story (1996),01-Jan-1997,Action|Documentary|Western
+1555,Movie 1566: Romance Story (1990),01-Jan-1996,Fantasy
+1556,Movie 1567: Mystery Story (1997),01-Jan-1998,Crime|Documentary
+1557,Movie 1568: Sci-Fi Story (1993),01-Jan-1992,Comedy
+1558,Movie 1569: Horror Story (1998),01-Jan-1991,Horror|Thriller
+1559,Movie 1570: Drama Story (1996),01-Jan-1992,Drama|War
+1560,Movie 1571: Comedy Story (1996),01-Jan-1994,Action
+1561,Movie 1572: Thriller Story (1994),01-Jan-1998,Action|Fantasy|Sci-Fi
+1562,Movie 1573: Comedy Story (1991),01-Jan-1996,Adventure|Horror|Romance
+1563,Movie 1574: Drama Story (1994),01-Jan-1996,Children|War
+1564,Movie 1575: Drama Story (1996),01-Jan-1997,Musical|War
+1565,Movie 1576: Sci-Fi Story (1996),01-Jan-1990,Adventure|Drama|Fantasy
+1566,Movie 1577: Comedy Story (1995),01-Jan-1996,Action|Horror|Sci-Fi
+1567,Movie 1578: Action Story (1991),01-Jan-1996,Horror
+1568,Movie 1579: Mystery Story (1994),01-Jan-1991,Action|Drama|Romance
+1569,Movie 1580: Romance Story (1995),01-Jan-1991,Documentary
+1570,Movie 1581: Drama Story (1991),01-Jan-1992,Animation|Film-Noir
+1571,Movie 1582: Drama Story (1991),01-Jan-1991,Thriller
+1572,Movie 1583: Mystery Story (1996),01-Jan-1996,Horror
+1573,Movie 1584: Animation Story (1998),01-Jan-1994,Children
+1574,Movie 1585: Horror Story (1998),01-Jan-1997,Horror|Thriller
+1575,Movie 1586: Action Story (1991),01-Jan-1993,Adventure|Horror
+1576,Movie 1587: Sci-Fi Story (1991),01-Jan-1998,Animation
+1577,Movie 1588: Comedy Story (1998),01-Jan-1997,Sci-Fi
+1578,Movie 1589: Horror Story (1995),01-Jan-1991,Horror|Thriller
+1579,Movie 1590: Romance Story (1990),01-Jan-1991,Adventure
+1580,Movie 1591: Horror Story (1996),01-Jan-1996,Horror|Thriller
+1581,Movie 1592: Animation Story (1991),01-Jan-1995,Adventure|Animation|Comedy
+1582,Movie 1593: Documentary Story (1993),01-Jan-1997,Film-Noir
+1583,Movie 1594: Drama Story (1998),01-Jan-1996,Children
+1584,Movie 1595: Drama Story (1996),01-Jan-1990,Adventure|Film-Noir|Mystery
+1585,Movie 1596: Romance Story (1992),01-Jan-1996,Romance
+1586,Movie 1597: Romance Story (1994),01-Jan-1993,Action|Mystery|Sci-Fi
+1587,Movie 1598: Drama Story (1997),01-Jan-1997,Children|Horror
+1588,Movie 1599: Drama Story (1991),01-Jan-1990,Horror|War
+1589,Movie 1600: Romance Story (1996),01-Jan-1993,Children
+1590,Movie 1601: Romance Story (1996),01-Jan-1990,Animation|Comedy|Documentary
+1591,Movie 1602: Comedy Story (1997),01-Jan-1998,Musical|Romance
+1592,Movie 1603: Romance Story (1995),01-Jan-1997,Crime|Drama|Sci-Fi
+1593,Movie 1604: Mystery Story (1993),01-Jan-1992,Adventure
+1594,Movie 1605: Mystery Story (1993),01-Jan-1992,Romance|War
+1595,Movie 1606: Drama Story (1991),01-Jan-1995,Comedy|Western
+1596,Movie 1607: Action Story (1994),01-Jan-1992,Film-Noir|Horror
+1597,Movie 1608: Sci-Fi Story (1996),01-Jan-1994,Action|War
+1598,Movie 1609: Sci-Fi Story (1996),01-Jan-1992,Drama
+1599,Movie 1610: Sci-Fi Story (1997),01-Jan-1998,Adventure|Musical|Romance
+1600,Movie 1611: Documentary Story (1996),01-Jan-1993,Documentary
+1601,Movie 1612: Romance Story (1992),01-Jan-1991,Documentary|Thriller
+1602,Movie 1613: Documentary Story (1995),01-Jan-1997,Film-Noir|Horror|Western
+1603,Movie 1614: Mystery Story (1993),01-Jan-1996,Children|Crime
+1604,Movie 1615: Drama Story (1995),01-Jan-1997,Thriller
+1605,Movie 1616: Sci-Fi Story (1996),01-Jan-1993,Drama
+1606,Movie 1617: Mystery Story (1994),01-Jan-1993,Documentary|Drama
+1607,Movie 1618: Sci-Fi Story (1993),01-Jan-1997,Documentary|Horror|Mystery
+1608,Movie 1619: Romance Story (1996),01-Jan-1996,Action
+1609,Movie 1620: Sci-Fi Story (1996),01-Jan-1995,Animation
+1610,Movie 1621: Documentary Story (1991),01-Jan-1995,Western
+1611,Movie 1622: Documentary Story (1993),01-Jan-1991,Film-Noir
+1612,Movie 1623: Drama Story (1998),01-Jan-1997,Musical
+1613,Movie 1624: Action Story (1998),01-Jan-1990,Documentary
+1614,Movie 1625: Thriller Story (1997),01-Jan-1993,Crime|Drama
+1615,Movie 1626: Romance Story (1997),01-Jan-1994,Crime|Drama|Horror
+1616,Movie 1627: Horror Story (1991),01-Jan-1992,Horror|Thriller
+1617,Movie 1628: Drama Story (1997),01-Jan-1993,Crime
+1618,Movie 1629: Thriller Story (1994),01-Jan-1994,Action
+1619,Movie 1630: Drama Story (1994),01-Jan-1992,Children|Horror
+1620,Movie 1631: Horror Story (1996),01-Jan-1993,Horror|Thriller
+1621,Movie 1632: Mystery Story (1991),01-Jan-1994,Drama|Musical
+1622,Movie 1633: Documentary Story (1997),01-Jan-1995,Crime|Romance|War
+1623,Movie 1634: Animation Story (1996),01-Jan-1991,Comedy
+1624,Movie 1635: Horror Story (1998),01-Jan-1992,Horror|Thriller
+1625,Movie 1636: Action Story (1998),01-Jan-1993,Western
+1626,Movie 1637: Animation Story (1995),01-Jan-1996,Horror|Musical|Romance
+1627,Movie 1638: Comedy Story (1991),01-Jan-1993,Documentary
+1628,Movie 1639: Sci-Fi Story (1993),01-Jan-1998,Comedy|Horror
+1629,Movie 1640: Documentary Story (1992),01-Jan-1993,Fantasy
+1630,Movie 1641: Documentary Story (1990),01-Jan-1992,Animation|Documentary|Thriller
+1631,Movie 1642: Sci-Fi Story (1996),01-Jan-1997,Animation|Crime|Mystery
+1632,Movie 1643: Comedy Story (1996),01-Jan-1998,Thriller|War
+1633,Movie 1644: Comedy Story (1990),01-Jan-1997,Horror
+1634,Movie 1645: Thriller Story (1994),01-Jan-1995,Thriller|War|Western
+1635,Movie 1646: Animation Story (1998),01-Jan-1994,Adventure|Documentary|Mystery
+1636,Movie 1647: Documentary Story (1998),01-Jan-1993,Sci-Fi
+1637,Movie 1648: Mystery Story (1993),01-Jan-1993,Documentary|Film-Noir
+1638,Movie 1649: Horror Story (1995),01-Jan-1996,Horror|Thriller
+1639,Movie 1650: Documentary Story (1997),01-Jan-1996,Crime|Fantasy|Musical
+1640,Movie 1651: Drama Story (1998),01-Jan-1998,Comedy
+1641,Movie 1652: Action Story (1995),01-Jan-1991,Sci-Fi|War
+1642,Movie 1653: Comedy Story (1997),01-Jan-1995,Adventure
+1643,Movie 1654: Horror Story (1994),01-Jan-1997,Horror|Thriller
+1644,Movie 1655: Comedy Story (1991),01-Jan-1998,Horror|Romance|Sci-Fi
+1645,Movie 1656: Sci-Fi Story (1992),01-Jan-1997,Musical|Romance
+1646,Movie 1657: Sci-Fi Story (1994),01-Jan-1997,Fantasy|Mystery
+1647,Movie 1658: Thriller Story (1997),01-Jan-1990,Sci-Fi
+1648,Movie 1659: Mystery Story (1998),01-Jan-1993,Animation|Musical
+1649,Movie 1660: Mystery Story (1995),01-Jan-1991,War|Western
+1650,Movie 1661: Mystery Story (1991),01-Jan-1998,Animation|Drama|Fantasy
+1651,Movie 1662: Sci-Fi Story (1997),01-Jan-1991,Animation
+1652,Movie 1663: Romance Story (1991),01-Jan-1995,Western
+1653,Movie 1664: Comedy Story (1990),01-Jan-1993,Documentary|Horror
+1654,Movie 1665: Sci-Fi Story (1990),01-Jan-1994,Documentary|Fantasy
+1655,Movie 1666: Drama Story (1991),01-Jan-1992,Action|Fantasy|Western
+1656,Movie 1667: Animation Story (1993),01-Jan-1994,Musical|Mystery
+1657,Movie 1668: Animation Story (1992),01-Jan-1996,Action|Comedy|Thriller
+1658,Movie 1669: Sci-Fi Story (1992),01-Jan-1996,Drama
+1659,Movie 1670: Horror Story (1998),01-Jan-1993,Horror|Thriller
+1660,Movie 1671: Thriller Story (1997),01-Jan-1997,War
+1661,Movie 1672: Drama Story (1996),01-Jan-1998,Horror|Sci-Fi
+1662,Movie 1673: Horror Story (1992),01-Jan-1991,Horror|Thriller
+1663,Movie 1674: Action Story (1996),01-Jan-1995,Romance
+1664,Movie 1675: Mystery Story (1993),01-Jan-1996,Sci-Fi
+1665,Movie 1676: Horror Story (1996),01-Jan-1997,Horror|Thriller
+1666,Movie 1677: Thriller Story (1990),01-Jan-1998,Musical
+1667,Movie 1678: Romance Story (1993),01-Jan-1992,Action|Comedy|Film-Noir
+1668,Movie 1679: Documentary Story (1991),01-Jan-1997,Drama|Horror|Musical
+1669,Movie 1680: Animation Story (1991),01-Jan-1996,Film-Noir|Mystery
+1670,Movie 1681: Sci-Fi Story (1992),01-Jan-1995,Action|Adventure|Comedy
+1671,Movie 1682: Thriller Story (1995),01-Jan-1992,Mystery|Western
+1672,Untitled Film 1672 (1997),01-Jan-1993,Animation|Mystery
+1673,Untitled Film 1673 (1997),01-Jan-1993,Children|Horror
+1674,Untitled Film 1674 (1997),01-Jan-1997,Animation|Crime|Film-Noir
+1675,Untitled Film 1675 (1997),01-Jan-1991,Adventure|Crime|Western
+1676,Untitled Film 1676 (1997),01-Jan-1997,Crime
+1677,Untitled Film 1677 (1997),01-Jan-1993,Mystery
+1678,Untitled Film 1678 (1997),01-Jan-1994,Drama
+1679,Untitled Film 1679 (1997),01-Jan-1994,Animation|Sci-Fi|War
+1680,Untitled Film 1680 (1997),01-Jan-1990,Action|War
+1681,Untitled Film 1681 (1997),01-Jan-1992,Mystery|Romance
+1682,Untitled Film 1682 (1997),01-Jan-1992,Comedy
