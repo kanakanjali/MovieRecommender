@@ -15,12 +15,6 @@ env/
 .env/
 .venv/
 
-# Data files (download locally using download_data.py)
-data/ml-100k/
-data/ml-100k.zip
-
-# Trained model files (generate locally using train_models.py)
-models/*.pkl
 
 # Streamlit cache
 .streamlit/
